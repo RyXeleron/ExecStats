@@ -36,8 +36,11 @@ readfile failed: [string "R51ghzu"]:424: File not found
 
 And it's possible for Wave to skid some enviroments from: Fluxus, Protosmasher, Krnl
 
-Wave's functions below the first picture
-Wave's actual UNCJay's (BetterRoblox's Owner) complaints about Wave's
+
+![Wave's actual functions](https://github.com/RyXeleron/2024-Exploits./blob/main/WAVEUNC.png?raw=true)
+
+![Wave's actual UNCJay's (BetterRoblox's Owner) complaints about Wave's](https://github.com/RyXeleron/2024-Exploits./blob/main/Jays.png?raw=true)
+
 
 
 # Solara
