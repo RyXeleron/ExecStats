@@ -4,19 +4,33 @@
 s**u the real Wave's UNC is 84% and the first release can't even execute LUAU
 Wave broken functions:
 getscriptclosure failed: [string "DJJVEAh"]:11: No __namecall on game allowed
+
 loadstring failed:[string "DJJVEAh"]:11: No __namecall on game allowed
+
 sethiddenproperty failed: [string "p4aFWOO"]:574: Did not return whether the proberty was hidden
+
 sethiddenproperty failed: [string "p4aFWOO"]:580: Did not return true for the hidden property
+
 isscriptable failed: [string "p4aFWOO"]:599: Did not return false for a non-scriptable property (size_xml)
+
 setscriptable failed: [string "p4aFWOO"]:606: Did not return false for a non-scriptable property (size_xml)
+
 getnamecallmethod failed: [string "DJJVEAh"]:11: No __namecall on game allowed
+
 setfpscap failed: [string "DJJVEAh"]:11: No __namecall on game allowed
+
 getscriptbytecodefailed: [string "DJJVEAh"]:11: No __namecall on game allowed
+
 getscripthash failed: [string "DJJVEAh"]:11: No __namecall on game allowed
+
 getsenv failed: [string "DJJVEAh"]:11: No __namecall on game allowed
+
 appendfile failed: [string "p4aFWOO"]:464: Did not append the file
+
 request failed: [string "DJJVEAh"]:11: No __namecall on game allowed
+
 readfile failed: [string "R51ghzu"]:424: File not found
+
 And it's possible for Wave to skid some enviroments from: Fluxus, Protosmasher, Krnl
 
 Wave's functions below the first picture
