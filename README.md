@@ -8,7 +8,7 @@ s**u the real Wave's UNC is 84% and the first release can't even execute LUAU
 Wave broken functions:
 getscriptclosure failed: [string "DJJVEAh"]:11: No __namecall on game allowed
 
-loadstring failed:[string "DJJVEAh"]:11: No __namecall on game allowed
+loadstring failed:[string "DJJVEAh"]:11: No __namecall on game allowed (Loadstring works but only the main part of it, just like MoreUNC)
 
 sethiddenproperty failed: [string "p4aFWOO"]:574: Did not return whether the proberty was hidden
 
