@@ -24,7 +24,7 @@
 
 6. **Feather**
    - **Status**: *Early release (beta).*
-   - **Details**: Feather is available in beta for a fee (e.g., server boost, £4, or 500 Robux). It is a copy-paste of Incognito with some modifications, most likely a Rat.
+   - **Details**: Feather is available in beta for a fee (e.g., server boost, £4, or 500 Robux). It is a copy-paste of Incognito with some modifications, reported to be a Rat.
 
 7. **Celery**
    - **Status**: *Patched (inactive).*
@@ -38,95 +38,87 @@
    - **Status**: *Not released.*
    - **Details**: Nihon is currently making a comeback, with development in progress. Limited functionality (e.g., print statements) has been demonstrated by developers.
 
-10. **Lunar**
+10. **Synergy**
+   - **Status**: *Not released.*
+   - **Details**: Synergy is currently in developments. 80 - 100% UNCS, has internal and external versions, pros and cons. Has been demonstrated by developers.
+
+11. **Lunar**
     - **Status**: *Discontinued.*
     - **Details**: Lunar is no longer operational and has been discontinued.
 
-11. **Incognito**
+12. **Incognito**
     - **Status**: *Patched (inactive).*
     - **Details**: Incognito is patched, and there have been reports that it might use the user’s graphics card for crypto mining.
 
-12. **Carbon**
+13. **Carbon**
     - **Status**: *Not released.*
     - **Details**: Carbon is an unreleased project developed by the same team behind Incognito.
 
-13. **Script-Ware**
+14. **Script-Ware**
     - **Status**: *Shutdown.*
     - **Details**: Script-Ware was a popular executor before the Byfron era but has since been shut down.
 
-14. **Electron**
+15. **Electron**
     - **Status**: *Patched (inactive).*
     - **Details**: Electron is a paid executor. It tends to get patched shortly after each release, and updates take several weeks. The project may be inactive.
 
-15. **AeroExec**
+16. **AeroExec**
     - **Status**: *Not released (detected API).*
     - **Details**: AeroExec is a free executor with a 58% UNC score. It has not been released yet, and its API is detected.
 
-16. **Moon Executor**
+17. **Moon Executor**
     - **Status**: *Unverified.*
     - **Details**: There is no concrete proof that Moon Executor is working, but it is mentioned here for reference.
 
-17. **Nexar X**
+18. **Nexar X**
     - **Status**: *Undetected (75% UNC).*
     - **Details**: Nexar X is reported to be a level 7 executor with a 75% UNC score and is currently undetected.
 
-18. **Nezur**
+19. **Nezur**
     - **Status**: *Working.*
-    - **Details**: Nezur is not an executor but a cheat designed for FPS games. There have been reports from some users that it may contain a virus, it has been proven that this is an older version of Aimmy, owner has a shady background.
+    - **Details**: Nezur is not an executor but a cheat designed for FPS games. There have been reports from some users that it may contain a virus, it has been proven that this is an older version of Aimmy, owner seems to has a shady background.
 
-19. **Fusion Softworks**
+20. **Fusion Softworks**
     - **Status**: *Not released.*
     - **Details**: Fusion Softworks is a cheat similar to Nezur and Aimmy. It has a well-designed GUI and offers a 48-hour key. The project has not yet been released.
 
-20. **Aimmy**
+21. **Aimmy**
     - **Status**: *Working*
     - **Details**: Aimmy is another  similar to Nezur. Some users report that it causes significant lag, but its current status is unclear.
 
 --------------------------
 
 
-# Wave
-### For wave here, the paid version of course has been saying it's Level 8 when it's just Level 3, don't trust me? Use PrintIdentity Validator on ScriptBlox
+Here's a refined version of the Wave description that maintains the key details and gives it a fresh, clear tone:
 
-"yEAh bUT wAvE hAs mOrEUNc tHaN sOlAra"
+---
 
-s**u the real Wave's UNC is 84% and the first release can't even execute LUAU
+### Wave
 
-Wave broken functions:
-getscriptclosure failed: [string "DJJVEAh"]:11: No __namecall on game allowed
+**Status**: *Patched*
 
-loadstring failed:[string "DJJVEAh"]:11: No __namecall on game allowed (Loadstring works but only the main part of it, just like MoreUNC)
+Wave has been a topic of controversy, especially the paid version, which claims to be a Level 8 executor but is actually only Level 3. If you're skeptical, try using the PrintIdentity Validator on ScriptBlox. Despite some users boasting that "Wave has more UNC than Solara," the reality is that Wave's UNC is only 84%. The first release couldn't even execute LUAU scripts properly.
 
-sethiddenproperty failed: [string "p4aFWOO"]:574: Did not return whether the proberty was hidden
+**Key Issues with Wave's early version:**
 
-sethiddenproperty failed: [string "p4aFWOO"]:580: Did not return true for the hidden property
+- **getscriptclosure**: Fails due to the lack of `__namecall` support on the game.
+- **loadstring**: Partially works, but many functions like MoreUNC don't function as intended.
+- **sethiddenproperty**: Fails to confirm if the property is hidden.
+- **isscriptable**: Incorrectly returns false for non-scriptable properties (e.g., size_xml).
+- **setscriptable**: Incorrectly returns false when attempting to set non-scriptable properties.
+- **getnamecallmethod**: Fails due to the lack of `__namecall` support on the game.
+- **setfpscap**: Fails for the same reason.
+- **getscriptbytecode**: Fails due to the lack of `__namecall` support on the game.
+- **getscripthash**: Also fails for the same reason.
+- **getsenv**: Another failure tied to the lack of `__namecall` support on the game.
+- **appendfile**: Fails to append files correctly.
+- **request**: Fails due to lack of `__namecall` support on the game.
+- **readfile**: Fails when the file isn't found.
 
-isscriptable failed: [string "p4aFWOO"]:599: Did not return false for a non-scriptable property (size_xml)
+There's speculation that Wave might have skidded some environments from Fluxus, Protosmasher, and Krnl, raising further doubts about its legitimacy.
 
-setscriptable failed: [string "p4aFWOO"]:606: Did not return false for a non-scriptable property (size_xml)
-
-getnamecallmethod failed: [string "DJJVEAh"]:11: No __namecall on game allowed
-
-setfpscap failed: [string "DJJVEAh"]:11: No __namecall on game allowed
-
-getscriptbytecodefailed: [string "DJJVEAh"]:11: No __namecall on game allowed
-
-getscripthash failed: [string "DJJVEAh"]:11: No __namecall on game allowed
-
-getsenv failed: [string "DJJVEAh"]:11: No __namecall on game allowed
-
-appendfile failed: [string "p4aFWOO"]:464: Did not append the file
-
-request failed: [string "DJJVEAh"]:11: No __namecall on game allowed
-
-readfile failed: [string "R51ghzu"]:424: File not found
-
-And it's possible for Wave to skid some enviroments from: Fluxus, Protosmasher, Krnl
-
-
-![Wave's actual functions](https://github.com/RyXeleron/2024-Exploits./blob/main/WAVEUNC.png?raw=true)
-
-![Wave's actual UNCJay's (BetterRoblox's Owner) complaints about Wave's](https://github.com/RyXeleron/2024-Exploits./blob/main/Jays.png?raw=true)
+[Wave's actual functions](https://github.com/RyXeleron/2024-Exploits./blob/main/WAVEUNC.png?raw=true) 
+[Jay's (BetterRoblox's Owner) complaints about Wave](https://github.com/RyXeleron/2024-Exploits./blob/main/Jays.png?raw=true).
 
 --------------------------
 
