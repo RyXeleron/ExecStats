@@ -1,6 +1,6 @@
 --------------------------
 
-### ExecStats:
+### **ExecStats:**
 
 1. **Solara**
    - **Status**: Working, but detected.
@@ -87,77 +87,82 @@
     - **Details**: Domain is a paid executor. Identity-Level 3 and has Low UNCS, previously known for being undetected in the early Hyperion 4.0.
     - **Supports**: PC
 
-18. **DX9WARE V2**
+18. **Ignite**
+    - **Status**: Working, detections unconfirmed.
+    - **Details**: A small, newly released internal but paid high UNC, Identity-Leveled 3 executor.
+    - **Supports**: PC
+
+19. **DX9WARE V2**
     - **Status**: Working, undetected.
     - **Details**: DX9WARE V2 is a paid external executor. A comeback of DX9WARE, previously detected by the earlier version Hyperion 4.0, around 1 to 2 months away from now, it has a giant script library and a custom Lua environment.
     - **Supports**: PC
 
-19. **Script-Ware**
+20. **Script-Ware**
     - **Status**: Shutdown.
     - **Details**: Script-Ware was a popular executor before the Byfron era but has since been shut down.
     - **Supports**: PC
 
-20. **Electron**
+21. **Electron**
     - **Status**: Patched (inactive).
     - **Details**: Electron is a paid executor. It tends to get patched shortly after each release, and updates take several weeks. The project may be inactive.
     - **Supports**: PC
 
-21. **AeroExec**
+22. **AeroExec**
     - **Status**: Not released (detected API).
     - **Details**: AeroExec is a free executor with a 58% UNC score. It has not been released yet, and its API is detected.
     - **Supports**: PC
 
-22. **Moon Executor**
+23. **Moon Executor**
     - **Status**: Unverified.
     - **Details**: There is no concrete proof that Moon Executor is working, but it is mentioned here for reference.
     - **Supports**: PC
 
-23. **Arceus X**
+24. **Arceus X**
     - **Status**: Working.
     - **Details**: Just like Vega X and Code X, it has an unnecessarily long key system, but except that this one has been reported to steal users' data since 2021. Be cautious when using!
     - **Supports**: Android
 
-24. **Vega X**
+25. **Vega X**
     - **Status**: Working, possibly detected.
     - **Details**: Vega X is owned by 1F0 and has partnered with Arceus X. It has a mid UNCS score.
     - **Supports**: Android
 
-25. **Cryptic**
-    - **Status**: Working, detections not confirmed.
+26. **Cryptic**
+    - **Status**: Working, detections unconfirmed.
     - **Details**: Cryptic is a free, newly released exploit with a very high identity level and UNCS, safety is uncertain.
     - **Supports**: PC
 
-26. **Evon**
+27. **Evon**
     - **Status**: Working, possibly detected.
     - **Details**: Evon, previously known for being a free PC executor, now an internal exec for Android Roblox.
     - **Supports**: Android
 
-27. **Nexar X**
-    - **Status**: *Undetected (75% UNC).*
+28. **Nexar X**
+    - **Status**: Undetected (75% UNC).
     - **Details**: Nexar X is reported to be a level 7 executor with a 75% UNC score and is currently undetected.
     - **Supports**: PC
 
-28. **Nezur**
+29. **Nezur**
     - **Status**: Working.
     - **Details**: Nezur is a free, AI-based aimbot similar to Aimmy but close-sourced. Some users have reported it may contain a virus. It has been proven that this is an older version of Aimmy. The owner seems to have a shady background.
     - **Supports**: PC
 
-29. **Nexus Admin**
+30. **Nexus Admin**
     - **Status**: Working.
     - **Details**: Nexus Admin is an executor that offers you free and lifetime packages. It has a high UNCS, and every LuaU script is executable, but it has very strict TOS.
     - **Supports**: PC
 
-30. **Fusion Softworks**
+31. **Fusion Softworks**
     - **Status**: Not released.
     - **Details**: Fusion Softworks is an AI-Based Aimbot similar to Nezur and Aimmy. It has a well-designed GUI and offers a 48-hour key. The project has not yet been released.
     - **Supports**: PC
 
-31. **Aimmy**
+32. **Aimmy**
     - **Status**: Working.
     - **Details**: Aimmy is a free, opensourced AI-Based Aimbot, the original source to Nezur. The newest version requires a high-end PC; otherwise, it will cause significant lags and jitters.
     - **Supports**: PC
 
-32. **MacSploit**
+33. **MacSploit**
     - **Status**: Working, but detected.
     - **Details**: Macsploit is a decently rated exploit for MacOS users. It is reported to be functional and has a moderate UNCS.
     - **Supports**: MacOS
