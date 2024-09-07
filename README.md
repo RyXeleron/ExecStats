@@ -4,7 +4,7 @@
 
 1. **Solara**
    - **Status**: Working, but detected.
-   - **Details**: Solara is not patched, but detected by Hyperion's. The detection is silent, so actions will be logged.
+   - **Details**: Solara is not patched, but detected by Hyperion's. The detection is silent, but actions will be logged for future consequences.
    - **Supports**: PC
 
 2. **Ro-Astral**
