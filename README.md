@@ -24,7 +24,7 @@
 
 6. **Feather**
    - **Status**: *Early release (beta).*
-   - **Details**: Feather is available in beta for a fee (e.g., server boost, £4, or 500 Robux). There have been claims that it is a copy-paste of Incognito with some modifications.
+   - **Details**: Feather is available in beta for a fee (e.g., server boost, £4, or 500 Robux). It is a copy-paste of Incognito with some modifications, most likely a Rat.
 
 7. **Celery**
    - **Status**: *Patched (inactive).*
@@ -32,7 +32,7 @@
 
 8. **Solaris**
    - **Status**: *Patched (inactive).*
-   - **Details**: Solaris is not a copy of Solara. It is currently patched and the project may be inactive.
+   - **Details**: Solaris is not a copy of Solara. It is currently patched and the project may be inactive, reported to be a Rat in the late year.
 
 9. **Nihon**
    - **Status**: *Not released.*
