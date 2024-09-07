@@ -3,44 +3,44 @@
 ### ExecStats:
 
 1. **Solara**
-   - **Status**: *Not patched, but detected.*
-   - **Details**: Solara is not patched, as the offsets remain unchanged. However, it is currently detected by anti-cheat systems, which means using it will likely result in detection. The detection is silent, so users may not notice any immediate changes, but actions will be logged.
+    - **Status**: *Not patched, but detected.*
+    - **Details**: Solara is not patched, as the offsets remain unchanged. However, it is currently detected by anti-cheat systems, which means using it will likely result in detection. The detection is silent, so users may not notice any immediate changes, but actions will be logged.
 
 2. **Ro-Astral**
-   - **Status**: *Not patched, but detected.*
-   - **Details**: Ro-Astral is an executor that, like Solara, is not patched but is silently detected. This detection is believed to be related to the monitoring of ModuleScripts.
+    - **Status**: *Not patched, but detected.*
+    - **Details**: Ro-Astral is an executor that, like Solara, is not patched but is silently detected. This detection is believed to be related to the monitoring of ModuleScripts.
 
 3. **Wave**
-   - **Status**: *Patched.*
-   - **Details**: Wave is an executor that was released two months ago. It was quickly patched and has not been updated since. The project appears inactive.
+    - **Status**: *Patched.*
+    - **Details**: Wave is an executor that was released two months ago. It was quickly patched and has not been updated since. The project appears inactive.
 
 4. **Krampus**
-   - **Status**: *Shutdown.*
-   - **Details**: Krampus is no longer operational as the project has been shut down.
+    - **Status**: *Shutdown.*
+    - **Details**: Krampus is no longer operational as the project has been shut down.
 
 5. **Prism**
-   - **Status**: *Not released.*
-   - **Details**: Prism has not been released yet. There is little concrete information available, but it is claimed to be undetected and potentially a level 6-7 executor with a 68% UNC (undetected score).
+    - **Status**: *Not released.*
+    - **Details**: Prism has not been released yet. There is little concrete information available, but it is claimed to be undetected and potentially a level 6-7 executor with a 68% UNC (undetected score).
 
 6. **Feather**
-   - **Status**: *Early release (beta).*
-   - **Details**: Feather is available in beta for a fee (e.g., server boost, £4, or 500 Robux). It is a copy-paste of Incognito with some modifications, reported to be a Rat.
+    - **Status**: *Early release (beta).*
+    - **Details**: Feather is available in beta for a fee (e.g., server boost, £4, or 500 Robux). It is a copy-paste of Incognito with some modifications, reported to be a Rat.
 
 7. **Celery**
-   - **Status**: *Patched (inactive).*
-   - **Details**: Celery's demo has ended, and the executor is currently patched. The project appears to be inactive.
+    - **Status**: *Patched (inactive).*
+    - **Details**: Celery's demo has ended, and the executor is currently patched. The project appears to be inactive.
 
 8. **Solaris**
-   - **Status**: *Patched (inactive).*
-   - **Details**: Solaris is not a copy of Solara. It is currently patched and the project may be inactive, reported to be a Rat in the late year.
+    - **Status**: *Patched (inactive).*
+    - **Details**: Solaris is not a copy of Solara. It is currently patched and the project may be inactive, reported to be a Rat in the late year.
 
 9. **Nihon**
-   - **Status**: *Not released.*
-   - **Details**: Nihon is currently making a comeback, with development in progress. Limited functionality (e.g., print statements) has been demonstrated by developers.
+    - **Status**: *Not released.*
+    - **Details**: Nihon is currently making a comeback, with development in progress. Limited functionality (e.g., print statements) has been demonstrated by developers.
 
 10. **Synergy**
-   - **Status**: *Not released.*
-   - **Details**: Synergy is currently in developments. 80 - 100% UNCS, has internal and external versions, pros and cons. Has been demonstrated by developers.
+    - **Status**: *Not released.*
+    - **Details**: Synergy is currently in developments. 80 - 100% UNCS, has internal and external versions, pros and cons. Has been demonstrated by developers.
 
 11. **Lunar**
     - **Status**: *Discontinued.*
