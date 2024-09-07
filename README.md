@@ -85,16 +85,6 @@
 ---
 
 
-
-
-
-
-
-
-
-
-
-
 # Wave
 ### For wave here, the paid version of course has been saying it's Level 8 when it's just Level 3, don't trust me? Use PrintIdentity Validator on ScriptBlox
 
