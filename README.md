@@ -132,6 +132,11 @@
     - **Details**: Evon, previously known for being a free PC executor, now an internal exec for Android Roblox.
     - **Supports**: Android
 
+21. **Nexar X**
+   - **Status**: *Undetected (75% UNC).*
+   - **Details**: Nexar X is reported to be a level 7 executor with a 75% UNC score and is currently undetected.
+   - **Supports**: PC
+
 27. **Nezur**
     - **Status**: Working.
     - **Details**: Nezur is a free, AI-based aimbot similar to Aimmy but close-sourced. Some users have reported it may contain a virus. It has been proven that this is an older version of Aimmy. The owner seems to have a shady background.
