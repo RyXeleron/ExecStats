@@ -133,9 +133,9 @@
     - **Supports**: Android
 
 27. **Nexar X**
-   - **Status**: *Undetected (75% UNC).*
-   - **Details**: Nexar X is reported to be a level 7 executor with a 75% UNC score and is currently undetected.
-   - **Supports**: PC
+    - **Status**: *Undetected (75% UNC).*
+    - **Details**: Nexar X is reported to be a level 7 executor with a 75% UNC score and is currently undetected.
+    - **Supports**: PC
 
 28. **Nezur**
     - **Status**: Working.
