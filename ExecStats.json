@@ -1,129 +1,184 @@
 {
-  "executors": [
+  "ExecStats": [
     {
-      "name": "Solara",
-      "status": "Working, Detected",
-      "details": "Solara is not patched, as the offsets remain unchanged. However, it is currently detected by Hyperion, which means using it will likely result in detection. The detection is silent, so users may not notice any immediate changes, but actions will be logged."
+      "Name": "Solara",
+      "Status": "Working, but detected",
+      "Details": "Solara is not patched, but detected by Hyperion's. The detection is silent, so actions will be logged.",
+      "Supports": "PC"
     },
     {
-      "name": "Ro-Astral",
-      "status": "Working, Detected",
-      "details": "Ro-Astral is an executor that, like Solara, is not patched but is silently detected. This detection is believed to be related to the monitoring of ModuleScripts."
+      "Name": "Ro-Astral",
+      "Status": "Working, but detected",
+      "Details": "Ro-Astral is detected, likely due to the monitoring of ModuleScripts.",
+      "Supports": "PC"
     },
     {
-      "name": "Wave",
-      "status": "Patched",
-      "details": "Wave is an executor that was released two months ago. It was quickly patched and has not been updated since. The project appears inactive."
+      "Name": "Wave / Wave Lite",
+      "Status": "Patched",
+      "Details": "Released two months ago, now patched and inactive.",
+      "Supports": "PC"
     },
     {
-      "name": "Krampus",
-      "status": "Shutdown",
-      "details": "Krampus is no longer operational as the project has been shut down."
+      "Name": "Krampus",
+      "Status": "Shutdown",
+      "Details": "Krampus is no longer operational.",
+      "Supports": "PC"
     },
     {
-      "name": "Prism",
-      "status": "Not released",
-      "details": "Prism has not been released yet. There is little concrete information available, but it is claimed to be undetected and potentially a level 6-7 executor with a 68% UNC (undetected score)."
+      "Name": "Prism",
+      "Status": "Not released",
+      "Details": "Claimed to be undetected, with a 68% UNC (undetected score).",
+      "Supports": "PC"
     },
     {
-      "name": "Feather",
-      "status": "Early release (beta)",
-      "details": "Feather is available in beta for a fee (e.g., server boost, £4, or 500 Robux). It is a copy-paste of Incognito with some modifications, reported to be a Rat."
+      "Name": "Feather",
+      "Status": "Early release (beta)",
+      "Details": "A copy-paste of Incognito, reported to be a Rat.",
+      "Supports": "PC"
     },
     {
-      "name": "Celery",
-      "status": "Patched (inactive)",
-      "details": "Celery's demo has ended, and the executor is currently patched. The project appears to be inactive."
+      "Name": "Celery",
+      "Status": "Patched (inactive)",
+      "Details": "Demo has ended, and the executor is currently patched. The project appears to be inactive.",
+      "Supports": "PC"
     },
     {
-      "name": "Solaris",
-      "status": "Patched (inactive)",
-      "details": "Solaris is not a copy of Solara. It is currently patched and the project may be inactive, reported to be a Rat in the late year."
+      "Name": "CodeX",
+      "Status": "Working, possibly detected",
+      "Details": "Very long key system, uses core technology from Arceus X.",
+      "Supports": "iOS, Android"
     },
     {
-      "name": "Nihon",
-      "status": "Not released",
-      "details": "Nihon is currently making a comeback, with development in progress. Limited functionality (e.g., print statements) has been demonstrated by developers."
+      "Name": "Solaris",
+      "Status": "Patched (inactive)",
+      "Details": "Solaris is not a copy of Solara. It is currently patched, and the project may be inactive, reported to be a Rat in the late year.",
+      "Supports": "PC"
     },
     {
-      "name": "Synergy",
-      "status": "Not released",
-      "details": "Synergy is currently in developments. High UNCS, has internal and external versions, pros and cons has been demonstrated by developers."
+      "Name": "Nihon",
+      "Status": "Not released",
+      "Details": "Nihon is making a comeback, with development in progress. Limited functionality (e.g., print statements) has been demonstrated by developers.",
+      "Supports": "PC"
     },
     {
-      "name": "Lunar",
-      "status": "Discontinued",
-      "details": "Lunar is no longer operational and has been discontinued."
+      "Name": "Synergy",
+      "Status": "Not released",
+      "Details": "Synergy is currently in development. It has 80-100% UNCS, with internal and external versions, pros, and cons. It has been demonstrated by developers.",
+      "Supports": "PC"
     },
     {
-      "name": "Incognito",
-      "status": "Patched (inactive)",
-      "details": "Incognito is patched, and there have been reports that it might use the user’s graphics card for crypto mining."
+      "Name": "Synapse Z",
+      "Status": "Working, undetected",
+      "Details": "Synapse Z has a built-in decompiler, high UNCS, and identity-level but crashes frequently and has many vulnerabilities.",
+      "Supports": "PC"
     },
     {
-      "name": "Carbon",
-      "status": "Not released",
-      "details": "Carbon is an unreleased project developed by the same team behind Incognito."
+      "Name": "Lunar",
+      "Status": "Discontinued",
+      "Details": "Lunar is no longer operational and has been discontinued.",
+      "Supports": "PC"
     },
     {
-      "name": "Script-Ware",
-      "status": "Shutdown",
-      "details": "Script-Ware was a popular executor before the Byfron era but has since been shut down."
+      "Name": "Incognito",
+      "Status": "Patched (inactive)",
+      "Details": "Incognito is patched, and there have been reports that it might use the user’s graphics card for crypto mining.",
+      "Supports": "PC"
     },
     {
-      "name": "Electron",
-      "status": "Patched (inactive)",
-      "details": "Electron is a paid executor. It tends to get patched shortly after each release, and updates take several weeks. The project may be inactive."
+      "Name": "Carbon",
+      "Status": "Not released",
+      "Details": "Carbon is an unreleased project developed by the same team behind Incognito.",
+      "Supports": "PC"
     },
     {
-      "name": "AeroExec",
-      "status": "Not released (detected API)",
-      "details": "AeroExec is a free executor with a 58% UNC score. It has not been released yet, and its API is detected."
+      "Name": "Delta",
+      "Status": "Working, possibly detected",
+      "Details": "Delta has very good performance and a well-built reputation, but some users have reported losing Robux. If you want to use it safely, try it on an alt account with an emulator inside a VM.",
+      "Supports": "iOS, Android"
     },
     {
-      "name": "Moon Executor",
-      "status": "Unverified",
-      "details": "There is no concrete proof that Moon Executor is working, but it is mentioned here for reference."
+      "Name": "Domain",
+      "Status": "Working, detected",
+      "Details": "Domain is a paid executor. Identity-Level 3 and has Low UNCS, previously known for being undetected in the early Hyperion 4.0.",
+      "Supports": "PC"
     },
     {
-      "name": "Nexar X",
-      "status": "Undetected (75% UNC)",
-      "details": "Nexar X is reported to be a level 7 executor with a 75% UNC score and is currently undetected."
+      "Name": "DX9WARE V2",
+      "Status": "Working, undetected",
+      "Details": "DX9WARE V2 is a paid external executor. A comeback of DX9WARE, previously detected by the earlier version Hyperion 4.0, around 1 to 2 months away from now, it has a giant script library and a custom Lua environment.",
+      "Supports": "PC"
     },
     {
-      "name": "Nezur",
-      "status": "Working",
-      "details": "Nezur is another similar AI-Based Aimbot like Aimmy. There have been reports from some users that it may contain a virus, it has been proven that this is an older version of Aimmy, owner seems to has a shady background."
+      "Name": "Script-Ware",
+      "Status": "Shutdown",
+      "Details": "Script-Ware was a popular executor before the Byfron era but has since been shut down.",
+      "Supports": "PC"
     },
     {
-      "name": "Fusion Softworks",
-      "status": "Not released",
-      "details": "Fusion Softworks is a cheat similar to Nezur and Aimmy. It has a well-designed GUI and offers a 48-hour key. The project has not yet been released."
+      "Name": "Electron",
+      "Status": "Patched (inactive)",
+      "Details": "Electron is a paid executor. It tends to get patched shortly after each release, and updates take several weeks. The project may be inactive.",
+      "Supports": "PC"
     },
     {
-      "name": "Aimmy",
-      "status": "Working, Undetected",
-      "details": "Aimmy is the original source to Nezur. The newest version requires a high-end PC, else would cause significant lags and jitters."
+      "Name": "AeroExec",
+      "Status": "Not released (detected API)",
+      "Details": "AeroExec is a free executor with a 58% UNC score. It has not been released yet, and its API is detected.",
+      "Supports": "PC"
     },
     {
-      "name": "Oxycotin",
-      "status": "Scam/Rat",
-      "details": "Oxycotin's developers are known for ratting and scamming others. The exploit doesn’t exist, and the project has scammed many people, with claims of selling non-existent injectors."
+      "Name": "Moon Executor",
+      "Status": "Unverified",
+      "Details": "There is no concrete proof that Moon Executor is working, but it is mentioned here for reference.",
+      "Supports": "PC"
     },
     {
-      "name": "Feather",
-      "status": "Skidded/Detected",
-      "details": "Feather skidded from Incognito while claiming to be a level 6 executor. The source code has been leaked online."
+      "Name": "Arceus X",
+      "Status": "Working",
+      "Details": "Just like Vega X and Code X, it has an unnecessarily long key system, but except that this one has been reported to steal users' data since 2021. Be cautious when using!",
+      "Supports": "Android"
     },
     {
-      "name": "Celery",
-      "status": "Faked UNC/Inactive",
-      "details": "Celery has fake or broken UNCs like Solara and Wave. It is possible to change identities to random numbers for fun. The identity of Celery is 3."
+      "Name": "Vega X",
+      "Status": "Working, possibly detected",
+      "Details": "Vega X is owned by 1F0 and has partnered with Arceus X. It has a mid UNCS score.",
+      "Supports": "Android"
     },
     {
-      "name": "Solus, Eulen, Rebound, Xylex, ExInject",
-      "status": "Rat/Scam",
-      "details": "These executors are known to be rats, with a reputation for scamming users."
+      "Name": "Cryptic",
+      "Status": "Working, detections not confirmed",
+      "Details": "Cryptic is a free, newly released exploit with a very high identity level and UNCS, safety is uncertain.",
+      "Supports": "PC"
+    },
+    {
+      "Name": "Evon",
+      "Status": "Working, possibly detected",
+      "Details": "Evon, previously known for being a free PC executor, now an internal exec for Android Roblox.",
+      "Supports": "Android"
+    },
+    {
+      "Name": "Nezur",
+      "Status": "Working",
+      "Details": "Nezur is a free, AI-based aimbot similar to Aimmy but close-sourced. Some users have reported it may contain a virus. It has been proven that this is an older version of Aimmy. The owner seems to have a shady background.",
+      "Supports": "PC"
+    },
+    {
+      "Name": "Nexus Admin",
+      "Status": "Working",
+      "Details": "Nexus Admin is an executor that offers you free and lifetime packages. It has a high UNCS, and every LuaU script is executable, but it has very strict TOS.",
+      "Supports": "PC"
+    },
+    {
+      "Name": "Fusion Softworks",
+      "Status": "Not released",
+      "Details": "Fusion Softworks is an AI-Based Aimbot similar to Nezur and Aimmy. It has a well-designed GUI and offers a 48-hour key. The project has not yet been released.",
+      "Supports": "PC"
+    },
+    {
+      "Name": "Aimmy",
+      "Status": "Working",
+      "Details": "Aimmy is a free, opensourced AI-Based Aimbot, the original source to Nezur. The newest version requires a high-end PC; otherwise, it will cause significant lags and jitters.",
+      "Supports": "PC"
     }
   ]
 }
