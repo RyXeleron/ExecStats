@@ -28,7 +28,7 @@
    - **Supports**: PC
 
 6. **Feather**
-   - **Status**: Early release (beta).
+   - **Status**: Patched (Exposed).
    - **Details**: A copy-paste of Incognito, reported to be a Rat.
    - **Supports**: PC
 
@@ -138,8 +138,8 @@
     - **Supports**: Android
 
 28. **Nexar X**
-    - **Status**: Undetected (75% UNC).
-    - **Details**: Nexar X is reported to be a level 7 executor with a 75% UNC score and is currently undetected.
+    - **Status**: Working, undetected.
+    - **Details**: Nexar X is reportedly to be a level 7 executor with a 75% UNC score and is currently undetected.
     - **Supports**: PC
 
 29. **Nezur**
@@ -168,6 +168,20 @@
     - **Supports**: MacOS
 
 --------------------------
+
+### NOTES
+
+Patched (Not Working): The exec was once available, but it's now fixed or blocked, so it doesn’t work anymore.
+
+Not Released (Here): The exec is still being worked on and hasn’t been made available yet.
+
+Unverified (Unknown/No Info Yet): We don’t have enough information to say if it works or not.
+
+Detected: This exec is flagged by Hyperion Anticheat. If you use it, you will likely get banned for exploiting. There are 4 banwaves your account can take, and if you get more than 4 Hyperion bans, your account will be permanently terminated.
+
+Possibly Detected (above 50% of the executor being detected): There’s a good chance that this tool is being detected and could get you banned. It's more than half likely that it’s flagged by security systems.
+
+Detections Unconfirmed (detections uncertain): We don’t know for sure if this tool is detected or not. There’s no clear information on whether it’s flagged by security systems.
 
 --------------------------
 
