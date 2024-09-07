@@ -1,6 +1,6 @@
 --------------------------
 
-### **ExecStats:**
+# **ExecStats:**
 
 1. **Solara**
    - **Status**: Working, but detected.
