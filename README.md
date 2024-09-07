@@ -1,6 +1,6 @@
 --------------------------
 
-### WhatExploitsAreOnline:
+### ExecStats:
 
 1. **Solara**
    - **Status**: *Not patched, but detected.*
@@ -79,8 +79,8 @@
     - **Details**: Fusion Softworks is a cheat similar to Nezur and Aimmy. It has a well-designed GUI and offers a 48-hour key. The project has not yet been released.
 
 20. **Aimmy**
-    - **Status**: *Unclear.*
-    - **Details**: Aimmy is another cheat similar to Nezur. Some users report that it causes significant lag, but its current status is unclear.
+    - **Status**: *Working*
+    - **Details**: Aimmy is another  similar to Nezur. Some users report that it causes significant lag, but its current status is unclear.
 
 --------------------------
 
