@@ -132,27 +132,27 @@
     - **Details**: Evon, previously known for being a free PC executor, now an internal exec for Android Roblox.
     - **Supports**: Android
 
-21. **Nexar X**
+27. **Nexar X**
    - **Status**: *Undetected (75% UNC).*
    - **Details**: Nexar X is reported to be a level 7 executor with a 75% UNC score and is currently undetected.
    - **Supports**: PC
 
-27. **Nezur**
+28. **Nezur**
     - **Status**: Working.
     - **Details**: Nezur is a free, AI-based aimbot similar to Aimmy but close-sourced. Some users have reported it may contain a virus. It has been proven that this is an older version of Aimmy. The owner seems to have a shady background.
     - **Supports**: PC
 
-28. **Nexus Admin**
+29. **Nexus Admin**
     - **Status**: Working.
     - **Details**: Nexus Admin is an executor that offers you free and lifetime packages. It has a high UNCS, and every LuaU script is executable, but it has very strict TOS.
     - **Supports**: PC
 
-29. **Fusion Softworks**
+30. **Fusion Softworks**
     - **Status**: Not released.
     - **Details**: Fusion Softworks is an AI-Based Aimbot similar to Nezur and Aimmy. It has a well-designed GUI and offers a 48-hour key. The project has not yet been released.
     - **Supports**: PC
 
-30. **Aimmy**
+31. **Aimmy**
     - **Status**: Working.
     - **Details**: Aimmy is a free, opensourced AI-Based Aimbot, the original source to Nezur. The newest version requires a high-end PC; otherwise, it will cause significant lags and jitters.
     - **Supports**: PC
