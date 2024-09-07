@@ -3,7 +3,7 @@
     {
       "name": "Solara",
       "status": "Not patched, but detected",
-      "details": "Solara is not patched, as the offsets remain unchanged. However, it is currently detected by Hyperion systems, which means using it will likely result in detection. The detection is silent, so users may not notice any immediate changes, but actions will be logged."
+      "details": "Solara is not patched, as the offsets remain unchanged. However, it is currently detected by Hyperion, which means using it will likely result in detection. The detection is silent, so users may not notice any immediate changes, but actions will be logged."
     },
     {
       "name": "Ro-Astral",
