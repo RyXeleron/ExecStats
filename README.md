@@ -76,7 +76,7 @@
 
 19. **Nezur**
     - **Status**: *Working.*
-    - **Details**: Nezur is not an executor but a cheat designed for FPS games. There have been reports from some users that it may contain a virus, it has been proven that this is an older version of Aimmy, owner seems to has a shady background.
+    - **Details**: Nezur is another similar AI-Based Aimbot like Aimmy. There have been reports from some users that it may contain a virus, it has been proven that this is an older version of Aimmy, owner seems to has a shady background.
 
 20. **Fusion Softworks**
     - **Status**: *Not released.*
@@ -84,7 +84,7 @@
 
 21. **Aimmy**
     - **Status**: *Working*
-    - **Details**: Aimmy is another  similar to Nezur. Some users report that it causes significant lag, but its current status is unclear.
+    - **Details**: Aimmy is the original source to Nezur. The newest version requires a high-end PC, else would cause significant lags and jitters.
 
 --------------------------
 
