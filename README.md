@@ -154,7 +154,7 @@
 
 --------------------------
 
----
+--------------------------
 
 ### Wave
 
@@ -184,63 +184,35 @@ There's speculation that Wave might have skidded some environments from Fluxus, 
 
 ![Wave's actual UNCJay's (BetterRoblox's Owner) complaints about Wave's](https://github.com/RyXeleron/ExecStats/blob/main/Pictures/Jays.png?raw=true)
 
---------------------------
+Absolutely, here's a more informal version using "execs" where appropriate:
 
-# Solara
-Solara has literally no red flag actually, the only thing is it's detected
+---
 
---------------------------
+### **Solara**
+- **Overview:** Solara is an exec with no major red flags, but it does have detection issues.
+- **Notes:** Since it’s detected, using it could lead to getting flagged and facing bans or restrictions.
 
-# Incognito / Carbon
+### **Incognito / Carbon**
+- **Overview:** Incognito (and its AI-Based Aimbot variant, Carbon) are pretty average execs. Incognito Beta, in particular, sometimes fails to work as expected.
+- **Source:** [Incognito Source](https://cdn.discordapp.com/attachments/1234086733247807498/1259752504699256832/incognitosource.zip?ex=668cd372&is=668b81f2&hm=b9ed1f6ed126c6311d43a6c2d3dfffdff0263455c47a8aa26f0ea2d7b636ba78&)
 
-Honestly, they were kinda mid despites how easily for incognito beta to "Not work" but it's just equally as Solara if you have MoreUNC
+### **Krampus**
+- **Overview:** Krampus has a bad reputation due to its Chinese devs who were reportedly involved in a police incident and ran off with the funds.
+- **Notes:** The exec is seen negatively due to these issues and the developers' questionable actions.
 
-also source: https://cdn.discordapp.com/attachments/1234086733247807498/1259752504699256832/incognitosource.zip?ex=668cd372&is=668b81f2&hm=b9ed1f6ed126c6311d43a6c2d3dfffdff0263455c47a8aa26f0ea2d7b636ba78&
+### **Oxycotin**
+- **Overview:** Oxycotin has a notorious reputation. The devs are known for rattering, and the original team was replaced by a new owner involved in various controversies.
+- **Details:** They’ve scammed people and falsely claimed the existence of an exploit. More details can be found [here](https://docs.google.com/document/u/0/d/1Wbc3nu2-Rt5TonxR-B40aLZjf7pv4kO4p6tRGv6VIEk/mobilebasic).
 
---------------------------
+### **Feather**
+- **Overview:** Feather might not be as genuine as it seems. It was initially hyped as a top-tier executor but turned out to be based on skidded (copied) versions of Incognito during its development.
+- **Source Code:** The source code for Feather is available [here](https://www.reddit.com/r/robloxhackers/comments/1d4gjiq/feather_executor_leak_fullsource_executable/).
 
-# Krampus
+### **Celery**
+- **Overview:** Celery has some fun features, like changing your identity to names like "69420 LMFAO." However, it suffers from issues with fake or broken UNC functionality, similar to other execs like Solara and Wave.
+- **Identity:** Celery’s Identity is rated at 3.
 
-L Krampus.
-
-If you didn't know, Krampus' Chinese developers were swatted by the police and now they just ran away with the money.
-
---------------------------
-
-# Oxycotin
-
-Yeah. Self-explanatory right? Everyone knows now.
-
-But for those who don't know, here's the context:
-
-The developers are ratters that have constantly ratted others and bragged about it This server began with two owners, but the current one took control and kicked the other, the full story being told here. https://docs.google.com/document/u/0/d/1Wbc3nu2-Rt5TonxR-B40aLZjf7pv4kO4p6tRGv6VIEk/mobilebasic The truth about their exploit. it doesn’t exist. some partners purchased the source but never got it, because apparently the dev “quit” and to this day he still has not gotten the injector, because it doesn’t exist. Even the developers don’t know if this is real, as they thought it was patched.
-
-TDLR : The owners are ratters who don’t have any sort of exploit and has been scamming tons of people, likely planning a rat.
-
-Message from voltra.lol
-
---------------------------
-
-# Feather
-DID YOU REALLY THINK FEATHER IS GENUINE?
-
-Eh anyways feathers skidded incognito (When Incognito was still in-development) while saying it has Level 6
-
-https://www.reddit.com/r/robloxhackers/comments/1d4gjiq/feather_executor_leak_fullsource_executable/
-
-Source code of feathers here you go.
-
---------------------------
-
-# Celery
-
-Celery, despite of having the fact that it also has faked/broken UNCs like Solara and Wave it's kinda fun when you can change your identity to 69420 LMFAO
-
-btw Celery Identity is 3
-
---------------------------
-
-# Solus Eulen Rebound Xylex ExInject
-You already know these b's are rats.
+### **Solus, Eulen, Rebound, Xylex, ExInject**
+- **Overview:** These wannabe Solara's are known for being unreliable or malicious, often referred to as "rats" (deceptive or harmful software).
 
 --------------------------
