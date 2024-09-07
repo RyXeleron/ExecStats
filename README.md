@@ -180,9 +180,9 @@ Wave has been a topic of controversy, especially the paid version, which claims 
 
 There's speculation that Wave might have skidded some environments from Fluxus, Protosmasher, and Krnl, raising further doubts about its legitimacy.
 
-![Wave's actual functions](https://github.com/RyXeleron/2024-Exploits./blob/main/WAVEUNC.png?raw=true)
+![Wave's actual functions](https://github.com/RyXeleron/ExecStats/blob/main/Pictures/WAVEUNC.png?raw=true)
 
-![Wave's actual UNCJay's (BetterRoblox's Owner) complaints about Wave's](https://github.com/RyXeleron/2024-Exploits./blob/main/Jays.png?raw=true)
+![Wave's actual UNCJay's (BetterRoblox's Owner) complaints about Wave's](https://github.com/RyXeleron/ExecStats/blob/main/Pictures/Jays.png?raw=true)
 
 --------------------------
 
