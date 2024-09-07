@@ -3,93 +3,146 @@
 ### ExecStats:
 
 1. **Solara**
-    - **Status**: *Not patched, but detected.*
-    - **Details**: Solara is not patched, as the offsets remain unchanged. However, it is currently detected by anti-cheat systems, which means using it will likely result in detection. The detection is silent, so users may not notice any immediate changes, but actions will be logged.
+   - **Status**: *Not patched, but detected.*
+   - **Details**: Solara is not patched, but detected by Hyperion's. The detection is silent, so actions will be logged.
+   - **Supports**: PC
 
 2. **Ro-Astral**
-    - **Status**: *Not patched, but detected.*
-    - **Details**: Ro-Astral is an executor that, like Solara, is not patched but is silently detected. This detection is believed to be related to the monitoring of ModuleScripts.
+   - **Status**: *Not patched, but detected.*
+   - **Details**: Ro-Astral is detected, likely due to the monitoring of ModuleScripts.
+   - **Supports**: PC
 
-3. **Wave**
-    - **Status**: *Patched.*
-    - **Details**: Wave is an executor that was released two months ago. It was quickly patched and has not been updated since. The project appears inactive.
+3. **Wave / Wave Lite**
+   - **Status**: *Patched.*
+   - **Details**: Released two months ago, now patched and inactive.
+   - **Supports**: PC
 
 4. **Krampus**
-    - **Status**: *Shutdown.*
-    - **Details**: Krampus is no longer operational as the project has been shut down.
+   - **Status**: *Shutdown.*
+   - **Details**: Krampus is no longer operational.
+   - **Supports**: PC
 
 5. **Prism**
-    - **Status**: *Not released.*
-    - **Details**: Prism has not been released yet. There is little concrete information available, but it is claimed to be undetected and potentially a level 6-7 executor with a 68% UNC (undetected score).
+   - **Status**: *Not released.*
+   - **Details**: Claimed to be undetected, with a 68% UNC (undetected score).
+   - **Supports**: PC
 
 6. **Feather**
-    - **Status**: *Early release (beta).*
-    - **Details**: Feather is available in beta for a fee (e.g., server boost, £4, or 500 Robux). It is a copy-paste of Incognito with some modifications, reported to be a Rat.
+   - **Status**: *Early release (beta).*
+   - **Details**: A copy-paste of Incognito, reported to be a Rat.
+   - **Supports**: PC
 
 7. **Celery**
-    - **Status**: *Patched (inactive).*
-    - **Details**: Celery's demo has ended, and the executor is currently patched. The project appears to be inactive.
+   - **Status**: *Patched (inactive).*
+   - **Details**: Demo has ended, and the executor is currently patched. The project appears to be inactive.
+   - **Supports**: PC
 
-8. **Solaris**
-    - **Status**: *Patched (inactive).*
-    - **Details**: Solaris is not a copy of Solara. It is currently patched and the project may be inactive, reported to be a Rat in the late year.
+8. **CodeX**
+   - **Status**: *Working, possibly detected.*
+   - **Details**: Very long key system, uses core technology from Arceus X.
+   - **Supports**: iOS, Android
 
-9. **Nihon**
-    - **Status**: *Not released.*
-    - **Details**: Nihon is currently making a comeback, with development in progress. Limited functionality (e.g., print statements) has been demonstrated by developers.
+9. **Solaris**
+   - **Status**: *Patched (inactive).*
+   - **Details**: Solaris is not a copy of Solara. It is currently patched, and the project may be inactive, reported to be a Rat in the late year.
+   - **Supports**: PC
 
-10. **Synergy**
-    - **Status**: *Not released.*
-    - **Details**: Synergy is currently in developments. 80 - 100% UNCS, has internal and external versions, pros and cons. Has been demonstrated by developers.
+10. **Nihon**
+   - **Status**: *Not released.*
+   - **Details**: Nihon is making a comeback, with development in progress. Limited functionality (e.g., print statements) has been demonstrated by developers.
+   - **Supports**: PC
 
-11. **Lunar**
-    - **Status**: *Discontinued.*
-    - **Details**: Lunar is no longer operational and has been discontinued.
+11. **Synergy**
+   - **Status**: *Not released.*
+   - **Details**: Synergy is currently in development. It has 80-100% UNCS, with internal and external versions, pros, and cons. It has been demonstrated by developers.
+   - **Supports**: PC
 
-12. **Incognito**
-    - **Status**: *Patched (inactive).*
-    - **Details**: Incognito is patched, and there have been reports that it might use the user’s graphics card for crypto mining.
+12. **Synapse Z**
+   - **Status**: *Working, undetected.*
+   - **Details**: Synapse Z has a built-in decompiler, high UNCS, and identity-level but crashes frequently and has many vulnerabilities.
+   - **Supports**: PC
 
-13. **Carbon**
-    - **Status**: *Not released.*
-    - **Details**: Carbon is an unreleased project developed by the same team behind Incognito.
+13. **Lunar**
+   - **Status**: *Discontinued.*
+   - **Details**: Lunar is no longer operational and has been discontinued.
+   - **Supports**: PC
 
-14. **Script-Ware**
-    - **Status**: *Shutdown.*
-    - **Details**: Script-Ware was a popular executor before the Byfron era but has since been shut down.
+14. **Incognito**
+   - **Status**: *Patched (inactive).*
+   - **Details**: Incognito is patched, and there have been reports that it might use the user’s graphics card for crypto mining.
+   - **Supports**: PC
 
-15. **Electron**
-    - **Status**: *Patched (inactive).*
-    - **Details**: Electron is a paid executor. It tends to get patched shortly after each release, and updates take several weeks. The project may be inactive.
+15. **Carbon**
+   - **Status**: *Not released.*
+   - **Details**: Carbon is an unreleased project developed by the same team behind Incognito.
+   - **Supports**: PC
 
-16. **AeroExec**
-    - **Status**: *Not released (detected API).*
-    - **Details**: AeroExec is a free executor with a 58% UNC score. It has not been released yet, and its API is detected.
+16. **Delta**
+   - **Status**: *Working, possibly detected.*
+   - **Details**: Delta has very good performance and a well-built reputation, but some users have reported losing Robux. If you want to use it safely, try it on an alt account with an emulator inside a VM.
+   - **Supports**: iOS, Android
 
-17. **Moon Executor**
-    - **Status**: *Unverified.*
-    - **Details**: There is no concrete proof that Moon Executor is working, but it is mentioned here for reference.
+17. **Script-Ware**
+   - **Status**: *Shutdown.*
+   - **Details**: Script-Ware was a popular executor before the Byfron era but has since been shut down.
+   - **Supports**: PC
 
-18. **Nexar X**
-    - **Status**: *Undetected (75% UNC).*
-    - **Details**: Nexar X is reported to be a level 7 executor with a 75% UNC score and is currently undetected.
+18. **Electron**
+   - **Status**: *Patched (inactive).*
+   - **Details**: Electron is a paid executor. It tends to get patched shortly after each release, and updates take several weeks. The project may be inactive.
+   - **Supports**: PC
 
-19. **Nezur**
-    - **Status**: *Working.*
-    - **Details**: Nezur is another similar AI-Based Aimbot like Aimmy. There have been reports from some users that it may contain a virus, it has been proven that this is an older version of Aimmy, owner seems to has a shady background.
+19. **AeroExec**
+   - **Status**: *Not released (detected API).*
+   - **Details**: AeroExec is a free executor with a 58% UNC score. It has not been released yet, and its API is detected.
+   - **Supports**: PC
 
-20. **Fusion Softworks**
-    - **Status**: *Not released.*
-    - **Details**: Fusion Softworks is a cheat similar to Nezur and Aimmy. It has a well-designed GUI and offers a 48-hour key. The project has not yet been released.
+20. **Moon Executor**
+   - **Status**: *Unverified.*
+   - **Details**: There is no concrete proof that Moon Executor is working, but it is mentioned here for reference.
+   - **Supports**: PC
 
-21. **Aimmy**
-    - **Status**: *Working*
-    - **Details**: Aimmy is the original source to Nezur. The newest version requires a high-end PC, else would cause significant lags and jitters.
+21. **Nexar X**
+   - **Status**: *Undetected (75% UNC).*
+   - **Details**: Nexar X is reported to be a level 7 executor with a 75% UNC score and is currently undetected.
+   - **Supports**: PC
+
+22. **Nezur**
+   - **Status**: *Working.*
+   - **Details**: Nezur is an AI-based aimbot similar to Aimmy. Some users have reported it may contain a virus. It has been proven that this is an older version of Aimmy. The owner seems to have a shady background.
+   - **Supports**: PC
+
+23. **Nexus Admin**
+   - **Status**: *Working.*
+   - **Details**: Nexus Admin is an executor that includes free and lifetime packages. It has a high UNCS, and every LuaU script is executable, but it has very strict TOS.
+   - **Supports**: PC
+
+24. **Fusion Softworks**
+   - **Status**: *Not released.*
+   - **Details**: Fusion Softworks is a cheat similar to Nezur and Aimmy. It has a well-designed GUI and offers a 48-hour key. The project has not yet been released.
+   - **Supports**: PC
+
+25. **Aimmy**
+   - **Status**: *Working.*
+   - **Details**: Aimmy is the original source of Nezur. The newest version requires a high-end PC; otherwise, it will cause significant lags and jitters.
+   - **Supports**: PC
+
+26. **NEVERMISS**
+   - **Status**: *Working, undetected.*
+   - **Details**: NEVERMISS is an external executor. Its identity level and UNCS are not confirmed. It is a rebrand of Santo-Ware. The owner's background is shady, and safety is not confirmed. It is recommended to use the same precautions as with Delta for maximum protection.
+   - **Supports**: PC
+
+27. **Vega X**
+   - **Status**: *Working, possibly detected.*
+   - **Details**: Vega X is owned by 1F0 and has partnered with Arceus X. It has a mid UNCS score.
+   - **Supports**: Android
+
+28. **Cryptic**
+   - **Status**: *Working, detections not confirmed.*
+   - **Details**: Cryptic is a newly released exploit with a very high identity level and UNCS, safety is uncertain.
+   - **Supports**: PC
 
 --------------------------
-
-
-Here's a refined version of the Wave description that maintains the key details and gives it a fresh, clear tone:
 
 ---
 
