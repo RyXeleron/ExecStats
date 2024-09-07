@@ -1,4 +1,4 @@
----
+--------------------------
 
 ### WhatExploitsAreOnline:
 
@@ -82,7 +82,7 @@
     - **Status**: *Unclear.*
     - **Details**: Aimmy is another cheat similar to Nezur. Some users report that it causes significant lag, but its current status is unclear.
 
----
+--------------------------
 
 
 # Wave
