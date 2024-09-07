@@ -2,12 +2,12 @@
   "executors": [
     {
       "name": "Solara",
-      "status": "Not patched, but detected",
+      "status": "Working, Detected",
       "details": "Solara is not patched, as the offsets remain unchanged. However, it is currently detected by Hyperion, which means using it will likely result in detection. The detection is silent, so users may not notice any immediate changes, but actions will be logged."
     },
     {
       "name": "Ro-Astral",
-      "status": "Not patched, but detected",
+      "status": "Working, Detected",
       "details": "Ro-Astral is an executor that, like Solara, is not patched but is silently detected. This detection is believed to be related to the monitoring of ModuleScripts."
     },
     {
@@ -93,7 +93,7 @@
     {
       "name": "Nezur",
       "status": "Working",
-      "details": "Nezur is not an executor but a cheat designed for FPS games. There have been reports from some users that it may contain a virus, it has been proven that this is an older version of Aimmy, owner seems to has a shady background."
+      "details": "Nezur is another similar AI-Based Aimbot like Aimmy. There have been reports from some users that it may contain a virus, it has been proven that this is an older version of Aimmy, owner seems to has a shady background."
     },
     {
       "name": "Fusion Softworks",
@@ -102,8 +102,8 @@
     },
     {
       "name": "Aimmy",
-      "status": "Unclear",
-      "details": "Aimmy is another  similar to Nezur. Some users report that it causes significant lag, but its current status is unclear."
+      "status": "Working, Undetected",
+      "details": "Aimmy is the original source to Nezur. The newest version requires a high-end PC, else would cause significant lags and jitters."
     },
     {
       "name": "Oxycotin",
