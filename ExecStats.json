@@ -153,5 +153,10 @@
     "Status": "Working",
     "Details": "Aimmy is a free, opensourced AI-Based Aimbot, the original source to Nezur. The newest version requires a high-end PC; otherwise, it will cause significant lags and jitters.",
     "Supports": "PC"
+  },
+  "Macsploit": {
+    "Status": "Working",
+    "Details": "Macsploit is a newly released exploit for macOS users. It is reported to be functional and has a moderate UNCS.",
+    "Supports": "Mac"
   }
 }
