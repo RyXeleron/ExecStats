@@ -1,0 +1,129 @@
+{
+  "executors": [
+    {
+      "name": "Solara",
+      "status": "Not patched, but detected",
+      "details": "Solara is not patched, as the offsets remain unchanged. However, it is currently detected by Hyperion systems, which means using it will likely result in detection. The detection is silent, so users may not notice any immediate changes, but actions will be logged."
+    },
+    {
+      "name": "Ro-Astral",
+      "status": "Not patched, but detected",
+      "details": "Ro-Astral is an executor that, like Solara, is not patched but is silently detected. This detection is believed to be related to the monitoring of ModuleScripts."
+    },
+    {
+      "name": "Wave",
+      "status": "Patched",
+      "details": "Wave is an executor that was released two months ago. It was quickly patched and has not been updated since. The project appears inactive."
+    },
+    {
+      "name": "Krampus",
+      "status": "Shutdown",
+      "details": "Krampus is no longer operational as the project has been shut down."
+    },
+    {
+      "name": "Prism",
+      "status": "Not released",
+      "details": "Prism has not been released yet. There is little concrete information available, but it is claimed to be undetected and potentially a level 6-7 executor with a 68% UNC (undetected score)."
+    },
+    {
+      "name": "Feather",
+      "status": "Early release (beta)",
+      "details": "Feather is available in beta for a fee (e.g., server boost, £4, or 500 Robux). It is a copy-paste of Incognito with some modifications, reported to be a Rat."
+    },
+    {
+      "name": "Celery",
+      "status": "Patched (inactive)",
+      "details": "Celery's demo has ended, and the executor is currently patched. The project appears to be inactive."
+    },
+    {
+      "name": "Solaris",
+      "status": "Patched (inactive)",
+      "details": "Solaris is not a copy of Solara. It is currently patched and the project may be inactive, reported to be a Rat in the late year."
+    },
+    {
+      "name": "Nihon",
+      "status": "Not released",
+      "details": "Nihon is currently making a comeback, with development in progress. Limited functionality (e.g., print statements) has been demonstrated by developers."
+    },
+    {
+      "name": "Synergy",
+      "status": "Not released",
+      "details": "Synergy is currently in developments. High UNCS, has internal and external versions, pros and cons has been demonstrated by developers."
+    },
+    {
+      "name": "Lunar",
+      "status": "Discontinued",
+      "details": "Lunar is no longer operational and has been discontinued."
+    },
+    {
+      "name": "Incognito",
+      "status": "Patched (inactive)",
+      "details": "Incognito is patched, and there have been reports that it might use the user’s graphics card for crypto mining."
+    },
+    {
+      "name": "Carbon",
+      "status": "Not released",
+      "details": "Carbon is an unreleased project developed by the same team behind Incognito."
+    },
+    {
+      "name": "Script-Ware",
+      "status": "Shutdown",
+      "details": "Script-Ware was a popular executor before the Byfron era but has since been shut down."
+    },
+    {
+      "name": "Electron",
+      "status": "Patched (inactive)",
+      "details": "Electron is a paid executor. It tends to get patched shortly after each release, and updates take several weeks. The project may be inactive."
+    },
+    {
+      "name": "AeroExec",
+      "status": "Not released (detected API)",
+      "details": "AeroExec is a free executor with a 58% UNC score. It has not been released yet, and its API is detected."
+    },
+    {
+      "name": "Moon Executor",
+      "status": "Unverified",
+      "details": "There is no concrete proof that Moon Executor is working, but it is mentioned here for reference."
+    },
+    {
+      "name": "Nexar X",
+      "status": "Undetected (75% UNC)",
+      "details": "Nexar X is reported to be a level 7 executor with a 75% UNC score and is currently undetected."
+    },
+    {
+      "name": "Nezur",
+      "status": "Working",
+      "details": "Nezur is not an executor but a cheat designed for FPS games. There have been reports from some users that it may contain a virus, it has been proven that this is an older version of Aimmy, owner seems to has a shady background."
+    },
+    {
+      "name": "Fusion Softworks",
+      "status": "Not released",
+      "details": "Fusion Softworks is a cheat similar to Nezur and Aimmy. It has a well-designed GUI and offers a 48-hour key. The project has not yet been released."
+    },
+    {
+      "name": "Aimmy",
+      "status": "Unclear",
+      "details": "Aimmy is another  similar to Nezur. Some users report that it causes significant lag, but its current status is unclear."
+    },
+    {
+      "name": "Oxycotin",
+      "status": "Scam/Rat",
+      "details": "Oxycotin's developers are known for ratting and scamming others. The exploit doesn’t exist, and the project has scammed many people, with claims of selling non-existent injectors."
+    },
+    {
+      "name": "Feather",
+      "status": "Skidded/Detected",
+      "details": "Feather skidded from Incognito while claiming to be a level 6 executor. The source code has been leaked online."
+    },
+    {
+      "name": "Celery",
+      "status": "Faked UNC/Inactive",
+      "details": "Celery has fake or broken UNCs like Solara and Wave. It is possible to change identities to random numbers for fun. The identity of Celery is 3."
+    },
+    {
+      "name": "Solus, Eulen, Rebound, Xylex, ExInject",
+      "status": "Rat/Scam",
+      "details": "These executors are known to be rats, with a reputation for scamming users."
+    }
+  ]
+}
