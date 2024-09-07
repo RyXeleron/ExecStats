@@ -72,7 +72,7 @@
 
 18. **Nezur**
     - **Status**: *Working.*
-    - **Details**: Nezur is not an executor but a cheat designed for FPS games. There have been reports from some users that it may contain a virus.
+    - **Details**: Nezur is not an executor but a cheat designed for FPS games. There have been reports from some users that it may contain a virus, it has been proven that this is an older version of Aimmy, owner has a shady background.
 
 19. **Fusion Softworks**
     - **Status**: *Not released.*
@@ -128,11 +128,12 @@ And it's possible for Wave to skid some enviroments from: Fluxus, Protosmasher, 
 
 ![Wave's actual UNCJay's (BetterRoblox's Owner) complaints about Wave's](https://github.com/RyXeleron/2024-Exploits./blob/main/Jays.png?raw=true)
 
-
+--------------------------
 
 # Solara
 Solara has literally no red flag actually, the only thing is it's detected
 
+--------------------------
 
 # Incognito / Carbon
 
@@ -140,12 +141,15 @@ Honestly, they were kinda mid despites how easily for incognito beta to "Not wor
 
 also source: https://cdn.discordapp.com/attachments/1234086733247807498/1259752504699256832/incognitosource.zip?ex=668cd372&is=668b81f2&hm=b9ed1f6ed126c6311d43a6c2d3dfffdff0263455c47a8aa26f0ea2d7b636ba78&
 
+--------------------------
 
 # Krampus
 
 L Krampus.
 
 If you didn't know, Krampus' Chinese developers were swatted by the police and now they just ran away with the money.
+
+--------------------------
 
 # Oxycotin
 
@@ -159,6 +163,7 @@ TDLR : The owners are ratters who don’t have any sort of exploit and has been 
 
 Message from voltra.lol
 
+--------------------------
 
 # Feather
 DID YOU REALLY THINK FEATHER IS GENUINE?
@@ -169,11 +174,17 @@ https://www.reddit.com/r/robloxhackers/comments/1d4gjiq/feather_executor_leak_fu
 
 Source code of feathers here you go.
 
+--------------------------
+
 # Celery
 
 Celery, despite of having the fact that it also has faked/broken UNCs like Solara and Wave it's kinda fun when you can change your identity to 69420 LMFAO
 
 btw Celery Identity is 3
 
+--------------------------
+
 # Solus Eulen Rebound Xylex ExInject
 You already know these b's are rats.
+
+--------------------------
