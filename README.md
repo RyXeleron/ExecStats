@@ -213,6 +213,6 @@ Absolutely, here's a more informal version using "execs" where appropriate:
 - **Identity:** Celery’s Identity is rated at 3.
 
 ### **Solus, Eulen, Rebound, Xylex, ExInject**
-- **Overview:** These wannabe Solara's are known for being unreliable or malicious, often referred to as "rats" (deceptive or harmful software).
+- **Overview:** These wannabe Solara's are known for being rats.
 
 --------------------------
