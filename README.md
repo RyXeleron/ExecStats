@@ -178,7 +178,7 @@
 
 Patched (Not Working): The exec was once available, but it's now fixed or blocked, so it doesn’t work anymore.
 
-Not Released (Here): The exec is still being worked on and hasn’t been made available yet.
+Not Released (Work in Progress): The exec is still being worked on and hasn’t been made available yet.
 
 Unverified (Unknown/No Info Yet): We don’t have enough information to say if it works or not.
 
