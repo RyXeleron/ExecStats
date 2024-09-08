@@ -130,7 +130,7 @@
 26. **Cryptic**
     - **Status**: Working, detections unconfirmed.
     - **Details**: Cryptic is a free, newly released exploit with a very high identity level and UNCS, safety is uncertain.
-    - **Supports**: PC
+    - **Supports**: Android
 
 27. **Evon**
     - **Status**: Working, possibly detected.
