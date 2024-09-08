@@ -117,7 +117,7 @@
     - **Details**: There is no concrete proof that Moon Executor is working, but it is mentioned here for reference.
     - **Supports**: PC
 
-24. **Arceus X**
+24. **Arceus X / Arceus Neo**
     - **Status**: Working.
     - **Details**: Just like Vega X and Code X, it has an unnecessarily long key system, but except that this one has been reported to steal users' data since 2021. Be cautious when using!
     - **Supports**: Android
