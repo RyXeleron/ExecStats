@@ -152,17 +152,22 @@
     - **Details**: Nexus Admin is an executor that offers you free and lifetime packages. It has a high UNCS, and every LuaU script is executable, but it has very strict TOS.
     - **Supports**: PC
 
-31. **Fusion Softworks**
+31. **NEVERMISS**
+    - **Status**: Working, detections unconfirmed.
+    - **Details**: NEVERMISS is a powerful external executor that offers you a lifetime package, has a Not-Bad reputation but is Santo-Ware's Rebrand, owner has a shady background.
+    - **Supports**: PC
+
+32. **Fusion Softworks**
     - **Status**: Not released.
     - **Details**: Fusion Softworks is an AI-Based Aimbot similar to Nezur and Aimmy. It has a well-designed GUI and offers a 48-hour key. The project has not yet been released.
     - **Supports**: PC
 
-32. **Aimmy**
+33. **Aimmy**
     - **Status**: Working.
     - **Details**: Aimmy is a free, opensourced AI-Based Aimbot, the original source to Nezur. The newest version requires a high-end PC; otherwise, it will cause significant lags and jitters.
     - **Supports**: PC
 
-33. **MacSploit**
+34. **MacSploit**
     - **Status**: Working, but detected.
     - **Details**: Macsploit is a decently rated exploit for MacOS users. It is reported to be functional and has a moderate UNCS.
     - **Supports**: MacOS
@@ -212,8 +217,6 @@ There's speculation that Wave might have skidded some environments from Fluxus, 
 ![Wave's actual functions](https://github.com/RyXeleron/ExecStats/blob/main/Pictures/WAVEUNC.png?raw=true)
 
 ![Wave's actual UNCJay's (BetterRoblox's Owner) complaints about Wave's](https://github.com/RyXeleron/ExecStats/blob/main/Pictures/Jays.png?raw=true)
-
-Absolutely, here's a more informal version using "execs" where appropriate:
 
 ---
 
