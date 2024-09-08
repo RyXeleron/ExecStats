@@ -154,7 +154,7 @@
       "Name": "Cryptic",
       "Status": "Working, detections unconfirmed",
       "Details": "Cryptic is a free, newly released exploit with a very high identity level and UNCS, safety is uncertain.",
-      "Supports": "PC"
+      "Supports": "Android"
     },
     {
       "Name": "Evon",
