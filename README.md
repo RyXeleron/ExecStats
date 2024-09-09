@@ -79,7 +79,7 @@
 
 16. **Carbon**
     - **Status**: Not released.
-    - **Details**: Carbon is an unreleased project developed by the same team behind Incognito.
+    - **Details**: Carbon is an unreleased AI-Based Aimbot project developed by the same team behind Incognito.
     - **Supports**: PC
 
 17. **Delta**
