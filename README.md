@@ -1,6 +1,6 @@
 --------------------------
 
-# **ExecStats:** (Information taken on [R/RobloxHackers](https://www.reddit.com/r/robloxhackers/) and [WhatExpsAreOnline](https://whatexpsare.online/)
+# **ExecStats:** ( Information taken on [R/RobloxHackers](https://www.reddit.com/r/robloxhackers/) and [WhatExpsAreOnline](https://whatexpsare.online/ )
 
 1. **Solara**
     - **Status**: Working, but detected.
