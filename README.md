@@ -184,7 +184,7 @@
 
 37. **Flint / "Incognito V2"**
     - **Status**: Working, detected.
-    - **Details**: Flint is a newly released executor, it's a recreation/continuation of Incognito. around 60% UNCS, Level 3. Uses a bit of other sploits' source code.
+    - **Details**: Flint is a newly released executor, it's a recreation/continuation of Incognito. has a moderate level of UNCS, Level 3. Uses a bit of other sploits' source code.
     - **Supports**: PC
 
 38. **Aimmy**
@@ -194,7 +194,7 @@
 
 39. **MacSploit**
     - **Status**: Working, but detected.
-    - **Details**: Macsploit is a decently rated exploit for MacOS users. It is reported to be functional and has a moderate UNCS.
+    - **Details**: Macsploit is a decently rated exploit for MacOS users. It is reported to be functional and has a moderate level of UNCS.
     - **Supports**: MacOS
 
 --------------------------
