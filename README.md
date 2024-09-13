@@ -152,37 +152,47 @@
     - **Details**: Evon, previously known for being a free PC executor, now an internal exec for Android Roblox.
     - **Supports**: Android
 
-31. **Nexar X**
+31. **Nyx V2.2**
+    - **Status**: Working, possibly detected.
+    - **Details**: Nyx is a newly released external executor, just like Solara it has around 60-70% UNCS, Level 3. Has a great reputation and approved by SkyHub.
+    - **Supports**: PC
+
+32. **Nexar X**
     - **Status**: Working, undetected.
     - **Details**: Nexar X is reportedly a level 7 executor with a 75% UNC score and is currently undetected.
     - **Supports**: PC
 
-32. **Nezur**
+33. **Nezur**
     - **Status**: Working.
     - **Details**: Nezur is a free, AI-based aimbot similar to Aimmy but close-sourced. Some users have reported it may contain a virus. It has been proven that this is an older version of Aimmy. The owner seems to have a shady background.
     - **Supports**: PC
 
-33. **Nexus Admin**
+34. **Nexus Admin**
     - **Status**: Working.
     - **Details**: Nexus Admin is an executor that offers you free and lifetime packages. It has a high UNCS, and every LuaU script is executable, but it has very strict TOS.
     - **Supports**: PC
 
-34. **NEVERMISS**
+35. **NEVERMISS**
     - **Status**: Working, detections unconfirmed.
     - **Details**: NEVERMISS is a powerful external executor that offers you a lifetime package, has a Not-Bad reputation but is Santo-Ware's Rebrand. The owner has a shady background.
     - **Supports**: PC
 
-35. **Fusion Softworks**
+36. **Fusion Softworks**
     - **Status**: Not released.
     - **Details**: Fusion Softworks is an AI-Based Aimbot similar to Nezur and Aimmy. It has a well-designed GUI and offers a 48-hour key. The project has not yet been released.
     - **Supports**: PC
 
-36. **Aimmy**
+37. **Flint / "Incognito V2"**
+    - **Status**: Working, detected.
+    - **Details**: Flint is a newly released executor, it's a recreation/continuation of Incognito. around 60% UNCS, Level 3. Uses a bit of other sploits' source code.
+    - **Supports**: PC
+
+38. **Aimmy**
     - **Status**: Working.
     - **Details**: Aimmy is a free, open-sourced AI-Based Aimbot, the original source to Nezur. The newest version requires a high-end PC; otherwise, it will cause significant lags and jitters.
     - **Supports**: PC
 
-37. **MacSploit**
+39. **MacSploit**
     - **Status**: Working, but detected.
     - **Details**: Macsploit is a decently rated exploit for MacOS users. It is reported to be functional and has a moderate UNCS.
     - **Supports**: MacOS
