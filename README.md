@@ -273,7 +273,7 @@ There's speculation that Wave might have skidded some environments from Fluxus, 
 - **Overview:** These wannabe Solara's are known for being rats.
 
 ### **Nyx**
--- **Overview** The owner is a skid and begged qui to fix his exec multiple times, you can check the screenshot below**
+-- **Overview:** The owner is a skid and begged qui to fix his exec multiple times, you can check the screenshot below
 
 ![From Quivings](https://github.com/user-attachments/assets/8b561d25-467c-4d78-ae60-9b8d485a3983)
 ![From J. Burger](https://github.com/user-attachments/assets/a75300ba-b38a-4ec5-88e6-1df24cbeacde)
