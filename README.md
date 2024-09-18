@@ -153,8 +153,8 @@
     - **Supports**: Android
 
 31. **Nyx V2.2**
-    - **Status**: Working, possibly detected.
-    - **Details**: Nyx is a newly released external executor, just like Solara it has around 60-70% UNCS, Level 3. Has a great reputation and approved by SkyHub.
+    - **Status**: Working, Ratted.
+    - **Details**: Nyx is a newly released external executor, it was recently exposed for being a rat, owner was a skid exposed by J. Burger and Quvings.
     - **Supports**: PC
 
 32. **Nexar X**
@@ -271,5 +271,11 @@ There's speculation that Wave might have skidded some environments from Fluxus, 
 
 ### **Solus, Eulen, Rebound, Xylex, ExInject**
 - **Overview:** These wannabe Solara's are known for being rats.
+
+### **Nyx**
+-- **Overview** The owner is a skid and begged qui to fix his exec multiple times, you can check the screenshot below**
+
+![From Quivings](https://github.com/user-attachments/assets/8b561d25-467c-4d78-ae60-9b8d485a3983)
+![From J. Burger](https://github.com/user-attachments/assets/a75300ba-b38a-4ec5-88e6-1df24cbeacde)
 
 --------------------------
