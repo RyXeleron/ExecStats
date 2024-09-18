@@ -148,7 +148,7 @@
     - **Supports**: Android
 
 30. **Evon**
-    - **Status**: Working, possibly detected.
+    - **Status**: Working, detected.
     - **Details**: Evon, previously known for being a free PC executor, now an internal exec for Android Roblox.
     - **Supports**: Android
 
