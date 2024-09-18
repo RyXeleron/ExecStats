@@ -278,4 +278,10 @@ There's speculation that Wave might have skidded some environments from Fluxus, 
 ![From Quivings](https://github.com/user-attachments/assets/8b561d25-467c-4d78-ae60-9b8d485a3983)
 ![From J. Burger](https://github.com/user-attachments/assets/a75300ba-b38a-4ec5-88e6-1df24cbeacde)
 
+
+### **More ratted execs and scripts**
+
+![The Nexity Situation](https://github.com/user-attachments/assets/a2e99019-de59-4318-943d-11d2d50ec46a)
+![SwagMode and Venox, Nexam abusing vulns to take control over skid and users](https://github.com/user-attachments/assets/e921b4cd-5aaa-4697-9b84-97beb3668609)
+
 --------------------------
