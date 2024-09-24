@@ -163,8 +163,8 @@
     - **Supports**: PC
 
 33. **Nezur**
-    - **Status**: Working.
-    - **Details**: Nezur is a free, AI-based aimbot similar to Aimmy but close-sourced. Some users have reported it may contain a virus. It has been proven that this is an older version of Aimmy. The owner seems to have a shady background.
+    - **Status**: Working, possibly detected.
+    - **Details**: Nezur is a freemium, recently turned from an AI Aimbot into a very nice external executor. Just like Solara it is level 3 and has almost the same UNC as well.
     - **Supports**: PC
 
 34. **Nexus Admin**
