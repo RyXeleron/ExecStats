@@ -1,208 +1,202 @@
 {
   "ExecStats": [
     {
-      "name": "Solara",
-      "status": "Working, but detected",
-      "details": "Solara is not patched, but detected by Hyperion's. The detection is silent, but actions will be logged for future consequences.",
-      "supports": "PC"
+      "Name": "Solara",
+      "Status": "Working, but detected",
+      "Details": "Solara is not patched, but detected by Hyperion's. The detection is silent, but actions will be logged for future consequences.",
+      "Supports": "PC"
     },
     {
-      "name": "Ro-Astral",
-      "status": "Working, but detected",
-      "details": "Ro-Astral is detected, likely due to the monitoring of ModuleScripts.",
-      "supports": "PC"
+      "Name": "Ro-Astral",
+      "Status": "Working, but detected",
+      "Details": "Ro-Astral is detected, likely due to the monitoring of ModuleScripts.",
+      "Supports": "PC"
     },
     {
-      "name": "Wave / Wave Lite",
-      "status": "Patched",
-      "details": "Released two months ago, now patched and inactive.",
-      "supports": "PC"
+      "Name": "Wave / Wave Lite",
+      "Status": "Working, but detected",
+      "Details": "Released two months ago. Wave is a Freemium executor. Premium version was very expensive, both versions have vulnerabilities and frequent crashes. Developer tried to hide these but it didn't work as planned.",
+      "Supports": "PC"
     },
     {
-      "name": "Krampus",
-      "status": "Shutdown",
-      "details": "Krampus is no longer operational.",
-      "supports": "PC"
+      "Name": "Krampus",
+      "Status": "Shutdown",
+      "Details": "Krampus is no longer operational.",
+      "Supports": "PC"
     },
     {
-      "name": "Prism",
-      "status": "Not released",
-      "details": "Claimed to be undetected, with a 68% UNC (undetected score).",
-      "supports": "PC"
+      "Name": "Prism",
+      "Status": "Not released",
+      "Details": "Claimed to be undetected, with a 68% UNC (undetected score).",
+      "Supports": "PC"
     },
     {
-      "name": "Feather",
-      "status": "Patched (Exposed)",
-      "details": "A copy-paste of Incognito, reported to be a Rat.",
-      "supports": "PC"
+      "Name": "Feather",
+      "Status": "Patched (Exposed)",
+      "Details": "A copy-paste of Incognito, reported to be a Rat.",
+      "Supports": "PC"
     },
     {
-      "name": "Celery",
-      "status": "Patched (inactive)",
-      "details": "Demo has ended, and the executor is currently patched. The project appears to be inactive.",
-      "supports": "PC"
+      "Name": "Celery",
+      "Status": "Patched (inactive)",
+      "Details": "Demo has ended, and the executor is currently patched. The project appears to be inactive.",
+      "Supports": "PC"
     },
     {
-      "name": "CodeX",
-      "status": "Working, possibly detected",
-      "details": "Very long key system, uses core technology from Arceus X.",
-      "supports": "iOS, Android"
+      "Name": "CodeX",
+      "Status": "Working, possibly detected",
+      "Details": "Very long key system, uses core technology from Arceus X.",
+      "Supports": "iOS, Android"
     },
     {
-      "name": "Solaris",
-      "status": "Patched (inactive)",
-      "details": "Solaris is not a copy of Solara. It is currently patched, and the project may be inactive, reported to be a Rat in the late year.",
-      "supports": "PC"
+      "Name": "Solaris",
+      "Status": "Patched (inactive)",
+      "Details": "Solaris is not a copy of Solara. It is currently patched, and the project may be inactive, reported to be a Rat in the late year.",
+      "Supports": "PC"
     },
     {
-      "name": "Nihon",
-      "status": "Not released",
-      "details": "Nihon is making a comeback, with development in progress. Limited functionality (e.g., print statements) has been demonstrated by developers.",
-      "supports": "PC"
+      "Name": "Nihon",
+      "Status": "Not released",
+      "Details": "Nihon is making a comeback, with development in progress. Limited functionality (e.g., print statements) has been demonstrated by developers.",
+      "Supports": "PC"
     },
     {
-      "name": "Synergy",
-      "status": "Not released",
-      "details": "Synergy is a very powerful executor still currently under-development. It has 80-100% UNCS, with internal and external versions, pros, and cons. It has been demonstrated by developers.",
-      "supports": "PC"
+      "Name": "Synergy",
+      "Status": "Not released",
+      "Details": "Synergy is a very powerful freemium executor still currently under-development. It has 80-100% UNCS, with internal and external versions. It has been demonstrated by developers.",
+      "Supports": "PC"
     },
     {
-      "name": "Synapse Z",
-      "status": "Working, undetected",
-      "details": "Synapse Z has a built-in decompiler, high UNCS, and identity-level but crashes frequently and has many vulnerabilities.",
-      "supports": "PC"
+      "Name": "Synapse Z",
+      "Status": "Working, undetected",
+      "Details": "Synapse Z has a built-in decompiler, high UNCS, and identity level but crashes frequently and has many vulnerabilities.",
+      "Supports": "PC"
     },
     {
-      "name": "Scriptify",
-      "status": "Not released",
-      "details": "Scriptify is an under-development paid executor. It has high UNC support which allows users to execute any script and still support high-performance gameplay and a huge script hub with over 30k scripts. Their UI is very user-friendly and customizable.",
-      "supports": "PC"
+      "Name": "Scriptify",
+      "Status": "Not released",
+      "Details": "Scriptify is an under-development paid executor. It has high UNC support which allows users to execute any script and still support high-performance gameplay and a huge script hub with over 30k scripts. Their UI is very user-friendly and customizable.",
+      "Supports": "PC"
     },
     {
-      "name": "Lunar",
-      "status": "Discontinued",
-      "details": "Lunar is no longer operational and has been discontinued.",
-      "supports": "PC"
+      "Name": "Lunar",
+      "Status": "Discontinued",
+      "Details": "Lunar is no longer operational and has been discontinued.",
+      "Supports": "PC"
     },
     {
-      "name": "Incognito",
-      "status": "Patched (inactive)",
-      "details": "Incognito is patched, and there have been reports that it might use the user’s graphics card for crypto mining.",
-      "supports": "PC"
+      "Name": "Incognito",
+      "Status": "Patched (inactive)",
+      "Details": "Incognito is patched, and there have been reports that it might use the user’s graphics card for crypto mining.",
+      "Supports": "PC"
     },
     {
-      "name": "Carbon",
-      "status": "Not released",
-      "details": "Carbon is an unreleased AI-Based Aimbot project developed by the same team behind Incognito.",
-      "supports": "PC"
+      "Name": "Carbon",
+      "Status": "Not released",
+      "Details": "Carbon is an unreleased AI-Based Aimbot project developed by the same team behind Incognito.",
+      "Supports": "PC"
     },
     {
-      "name": "Delta",
-      "status": "Working, possibly detected",
-      "details": "Delta has very good performance and a well-built reputation, but some users have reported losing Robux. If you want to use it safely, try it on an alt account with an emulator inside a VM.",
-      "supports": "iOS, Android"
+      "Name": "Delta",
+      "Status": "Working, possibly detected",
+      "Details": "Delta has very good performance and a well-built reputation, but some users have reported losing Robux. If you want to use it safely, try it on an alt account with an emulator inside a VM.",
+      "Supports": "iOS, Android"
     },
     {
-      "name": "Domain",
-      "status": "Working, detected",
-      "details": "Domain is a paid executor. Identity-Level 3 and has Low UNCS, previously known for being undetected in the early Hyperion 4.0.",
-      "supports": "PC"
+      "Name": "Domain",
+      "Status": "Working, detected",
+      "Details": "Domain is a paid executor. Level 3 and has no UNCS, previously known for being undetected in the early Hyperion 4.0.",
+      "Supports": "PC"
     },
     {
-      "name": "Ignite",
-      "status": "Working, detections unconfirmed",
-      "details": "A small, newly released internal but paid high UNC, Identity-Leveled 3 executor.",
-      "supports": "PC"
+      "Name": "Ignite",
+      "Status": "Working, detections unconfirmed",
+      "Details": "A small, newly released paid internal executor, has high UNC and is level 3.",
+      "Supports": "PC"
     },
     {
-      "name": "Horizon",
-      "status": "Not Released",
-      "details": "Horizon is an under-development paid external executor. Horizon is a great executor, it has over 97%+ UNCS in their Lua environment, has a well-built reputation (they often use racism slurs though).",
-      "supports": "PC"
+      "Name": "Horizon",
+      "Status": "Not Released",
+      "Details": "Horizon is an under-development paid external executor. Horizon is a great executor, it has over 97%+ UNCS in their Lua environment, has a well-built reputation (they often use racist slurs though).",
+      "Supports": "PC"
     },
     {
-      "name": "Hydrogen",
-      "status": "Patched (inactive)",
-      "details": "Hydrogen is a well-known exploit for Android Roblox from 2020 to 2022. It is now patched and seems to not be updated anytime soon.",
-      "supports": "MacOS, Android"
+      "Name": "Hydrogen",
+      "Status": "Patched (inactive)",
+      "Details": "Hydrogen is a well-known exploit for Android Roblox from 2020 to 2022. It is now patched and seems to not be updated anytime soon.",
+      "Supports": "MacOS, Android"
     },
     {
-      "name": "DX9WARE V2",
-      "status": "Working, undetected",
-      "details": "DX9WARE V2 is a paid external executor. A comeback of DX9WARE, previously detected by the earlier version Hyperion 4.0, around 1 to 2 months away from now, it has a giant script library and a custom Lua environment.",
-      "supports": "PC"
+      "Name": "DX9WARE V2",
+      "Status": "Working, undetected",
+      "Details": "DX9WARE V2 is a paid external executor. A comeback of DX9WARE, previously detected by the earlier version Hyperion 4.0, around 1 to 2 months away from now, it has a giant script library and a custom Lua environment.",
+      "Supports": "PC"
     },
     {
-      "name": "Script-Ware",
-      "status": "Shutdown",
-      "details": "Script-Ware was a popular executor before the Byfron era but has since been shut down.",
-      "supports": "PC"
+      "Name": "Script-Ware",
+      "Status": "Shutdown",
+      "Details": "Script-Ware was a popular executor before the Byfron era but has since been shut down.",
+      "Supports": "PC"
     },
     {
-      "name": "Electron",
-      "status": "Patched (inactive)",
-      "details": "Electron is a paid executor. It tends to get patched shortly after each release, and updates take several weeks. The project may be inactive.",
-      "supports": "PC"
+      "Name": "Electron",
+      "Status": "Patched (inactive)",
+      "Details": "Electron is a paid executor. It tends to get patched shortly after each release, and updates take several weeks. The project may be inactive.",
+      "Supports": "PC"
     },
     {
-      "name": "AeroExec",
-      "status": "Not released (detected API)",
-      "details": "AeroExec is a free executor with a 58% UNC score. It has not been released yet, and its API is detected.",
-      "supports": "PC"
+      "Name": "AeroExec",
+      "Status": "Not released (detected API)",
+      "Details": "AeroExec is a free executor with a 58% UNC score. It has not been released yet, and its API is detected.",
+      "Supports": "PC"
     },
     {
-      "name": "Moon Executor",
-      "status": "Unverified",
-      "details": "There is no concrete proof that Moon Executor is working, but it is mentioned here for reference.",
-      "supports": "PC"
+      "Name": "Moon Executor",
+      "Status": "Unverified",
+      "Details": "There is no concrete proof that Moon Executor is working, but it is mentioned here for reference.",
+      "Supports": "PC"
     },
     {
-      "name": "Arceus X / Arceus Neo",
-      "status": "Working",
-      "details": "Just like Vega X and Code X, it has an unnecessarily long key system, but it has been reported to steal users' data since 2021. Be cautious when using!",
-      "supports": "Android"
+      "Name": "Arceus X / Arceus Neo",
+      "Status": "Working",
+      "Details": "Just like Vega X and Code X, it has an unnecessarily long key system, but it has been reported to steal users' data since 2021. Be cautious when using!",
+      "Supports": "Android"
     },
     {
-      "name": "Vega X",
-      "status": "Working, possibly detected",
-      "details": "Vega X is owned by 1F0 and has partnered with Arceus X. It has a mid UNCS score.",
-      "supports": "Android"
+      "Name": "Vega X",
+      "Status": "Working, possibly detected",
+      "Details": "Vega X is owned by 1F0 and has partnered with Arceus X. It has a mid UNCS score.",
+      "Supports": "Android"
     },
     {
-      "name": "Cryptic",
-      "status": "Working, detections unconfirmed",
-      "details": "Cryptic is a free, newly released exploit with a very high identity level and UNCS. Safety is uncertain.",
-      "supports": "Android"
+      "Name": "Cryptic",
+      "Status": "Working, detections unconfirmed",
+      "Details": "Cryptic is a free, newly released exploit with a very high identity level and UNCS. Safety is uncertain.",
+      "Supports": "Android"
     },
     {
-      "name": "Evon",
-      "status": "Working, possibly detected",
-      "details": "Evon, previously known for being a free PC executor, now an internal exec for Android Roblox.",
-      "supports": "Android"
+      "Name": "Evon",
+      "Status": "Working, detected",
+      "Details": "Evon, previously known for being a free PC executor, now an internal exec for Android Roblox.",
+      "Supports": "Android"
     },
     {
-      "name": "Nyx V2.2",
-      "status": "Working, Ratted",
-      "details": "Nyx is a newly released external executor, it was recently exposed for being a rat, owner was a skid exposed by J. Burger and Quvings.",
-      "supports": "PC"
+      "Name": "Nyx V2.2",
+      "Status": "Working, Ratted",
+      "Details": "Nyx is a newly released external executor, it was recently exposed for being a rat, owner was a skid exposed by J. Burger and Quvings.",
+      "Supports": "PC"
     },
     {
-      "name": "Nexar X",
-      "status": "Working, undetected",
-      "details": "Nexar X is reportedly a level 7 executor with a 75% UNC score and is currently undetected.",
-      "supports": "PC"
+      "Name": "Nexar X",
+      "Status": "Working, undetected",
+      "Details": "Nexar X is reportedly a level 7 executor with a 75% UNC score and is currently undetected.",
+      "Supports": "PC"
     },
     {
-      "name": "Nezur",
-      "status": "Working",
-      "details": "Nezur is a free, AI-based aimbot similar to Aimmy but close-sourced. Some users have reported it may contain a virus. It has been proven that this is an older version of Aimmy. The owner seems to have a shady background.",
-      "supports": "PC"
-    },
-    {
-      "name": "Nexus Admin",
-      "status": "Working",
-      "details": "Nexus Admin is an executor that offers you free and lifetime packages. It has a high UNCS, and every LuaU script is executable, but it has very strict TOS.",
-      "supports": "PC"
+      "Name": "Nezur",
+      "Status": "Working, possibly detected",
+      "Details": "Nezur is a freemium, recently turned from an AI Aimbot into a very nice external executor. Just like Solara, it is level 3 and has almost the same functionality.",
+      "Supports": "PC"
     },
     {
       "name": "NEVERMISS",
