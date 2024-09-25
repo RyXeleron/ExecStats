@@ -13,8 +13,8 @@
     - **Supports**: PC
 
 3. **Wave / Wave Lite**
-    - **Status**: Patched.
-    - **Details**: Released two months ago, now patched and inactive.
+    - **Status**: Working, but detected.
+    - **Details**: Released two months ago. Wave is a Freemium executor. Premium version was very expensive, both versions has vulnerablities and frequent crashes. Developer tried to hide these but it didn't work as planned.
     - **Supports**: PC
 
 4. **Krampus**
@@ -54,12 +54,12 @@
 
 11. **Synergy**
     - **Status**: Not released.
-    - **Details**: Synergy is a very powerful executor still currently under-development. It has 80-100% UNCS, with internal and external versions, pros, and cons. It has been demonstrated by developers.
+    - **Details**: Synergy is a very powerful freemium executor still currently under-development. It has 80-100% UNCS, with internal and external versions. It has been demonstrated by developers.
     - **Supports**: PC
 
 12. **Synapse Z**
     - **Status**: Working, undetected.
-    - **Details**: Synapse Z has a built-in decompiler, high UNCS, and identity-level but crashes frequently and has many vulnerabilities.
+    - **Details**: Synapse Z has a built-in decompiler, high UNCS, and identity level but crashes frequently and has many vulnerabilities.
     - **Supports**: PC
 
 13. **Scriptify**
@@ -89,12 +89,12 @@
 
 18. **Domain**
     - **Status**: Working, detected.
-    - **Details**: Domain is a paid executor. Identity-Level 3 and has Low UNCS, previously known for being undetected in the early Hyperion 4.0.
+    - **Details**: Domain is a paid executor. Level 3 and has no UNCS, previously known for being undetected in the early Hyperion 4.0.
     - **Supports**: PC
 
 19. **Ignite**
     - **Status**: Working, detections unconfirmed.
-    - **Details**: A small, newly released internal but paid high UNC, Identity-Leveled 3 executor.
+    - **Details**: A small, newly released paid internal executor, has high UNC and is level 3.
     - **Supports**: PC
 
 20. **Horizon**
@@ -213,6 +213,7 @@ Possibly Detected (above 50% of the executor being detected): There’s a good c
 
 Detections Unconfirmed (detections uncertain): We don’t know for sure if this tool is detected or not. There’s no clear information on whether it’s flagged by security systems.
 
+Freemium: has both paid (pros/premium) and free (cons) versions
 --------------------------
 
 ### Wave
