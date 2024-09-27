@@ -278,7 +278,8 @@ There's speculation that Wave might have skidded some environments from Fluxus, 
 
 ![From Quivings](https://github.com/user-attachments/assets/8b561d25-467c-4d78-ae60-9b8d485a3983)
 ![From J. Burger](https://github.com/user-attachments/assets/a75300ba-b38a-4ec5-88e6-1df24cbeacde)
-[From J. Burger's Reddit]([https://github.com/user-attachments/assets/a75300ba-b38a-4ec5-88e6-1df24cbeacde](https://www.reddit.com/r/robloxhackers/comments/1fcafoj/nyx_executor_rat_proof/?share_id=ZEKoG_aapnkNtygTBHt54))
+
+[From J. Burger's Reddit](https://www.reddit.com/r/robloxhackers/comments/1fcafoj/nyx_executor_rat_proof/?share_id=ZEKoG_aapnkNtygTBHt54)
 
 
 ### **More ratted execs and scripts**
