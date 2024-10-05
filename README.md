@@ -4,7 +4,7 @@
 
 1. **Solara**
     - **Status**: Working, but detected.
-    - **Details**: Solara is not patched, but detected by Hyperion's. The detection is silent, but actions will be logged for future consequences.
+    - **Details**: Solara is not patched, but detected by Hyperion's. The detection is silent, but actions will be logged for future consequences, it is confirmed that this executor is safe.
     - **Supports**: PC
 
 2. **Ro-Astral**
@@ -29,7 +29,7 @@
 
 6. **Feather**
     - **Status**: Patched (Exposed).
-    - **Details**: A copy-paste of Incognito, reported to be a Rat.
+    - **Details**: A copy-paste of Incognito and Krampus, reported to be a Rat.
     - **Supports**: PC
 
 7. **Celery**
@@ -59,7 +59,7 @@
 
 12. **Synapse Z**
     - **Status**: Working, undetected.
-    - **Details**: Synapse Z has a built-in decompiler, high UNCS, and identity level but crashes frequently and has many vulnerabilities.
+    - **Details**: Synapse Z has a built-in decompiler, 100% UNCS and is level 3 but crashes frequently and has many vulnerabilities, it is confirmed that this executor is safe.
     - **Supports**: PC
 
 13. **Scriptify**
@@ -74,7 +74,7 @@
 
 15. **Incognito**
     - **Status**: Patched (inactive).
-    - **Details**: Incognito is patched, and there have been reports that it might use the user’s graphics card for crypto mining.
+    - **Details**: Incognito is patched, it's previously a known 0 UNC, level 3 executor, it is confirmed that this executor is safe, the community and reputation of this executor is really greatly built.
     - **Supports**: PC
 
 16. **Carbon**
@@ -194,7 +194,7 @@
 
 39. **MacSploit**
     - **Status**: Working, but detected.
-    - **Details**: Macsploit is a decently rated exploit for MacOS users. It is reported to be functional and has a moderate level of UNCS.
+    - **Details**: Macsploit is a decently rated exploit for MacOS users. It is reported to be functional and has a moderate level of UNCS, it is confirmed that this executor is safe.
     - **Supports**: MacOS
 
 --------------------------
