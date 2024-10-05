@@ -154,7 +154,7 @@
 
 31. **Nyx V2.2**
     - **Status**: Working, Ratted.
-    - **Details**: Nyx is a newly released external executor, it was recently exposed for being a rat, owner was a skid exposed by J. Burger and Quvings.
+    - **Details**: Nyx is a newly released external executor, it was recently exposed for being a rat, owner was a skid exposed by J. Burger and Quivings.
     - **Supports**: PC
 
 32. **Nexar X**
@@ -286,10 +286,13 @@ There's speculation that Wave might have skidded some environments from Fluxus, 
 
 300+ scripts, including bigger scripts such as:
 
-VenoxHub,
-VenoxWare,
-SwagMode,
-ScriptsQP (qp hub)
+- VenoxHub
+
+- VenoxWare
+
+- SwagMode
+
+- ScriptsQP (qp hub)
 
 Have been possibly identified to be / or conspiring to be abusing vulnerabilities across all executors, which will likely be used in attempts to steal your information. As a necessary precaution, all 4 of those scripts have now been blacklisted from Solara, and other scripts are being investigated.
 
