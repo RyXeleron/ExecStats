@@ -214,6 +214,7 @@ Possibly Detected (above 50% of the executor being detected): There’s a good c
 Detections Unconfirmed (detections uncertain): We don’t know for sure if this tool is detected or not. There’s no clear information on whether it’s flagged by security systems.
 
 Freemium: has both paid (pros/premium) and free (cons) versions
+
 --------------------------
 
 ### Wave
