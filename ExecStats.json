@@ -3,7 +3,7 @@
     {
       "name": "Solara",
       "status": "Working, but detected",
-      "details": "Solara is not patched, but detected by Hyperion's. The detection is silent, but actions will be logged for future consequences, it is confirmed that this executor is safe.",
+      "details": "Solara is not patched but detected by Hyperion. The detection is silent, but actions will be logged for future consequences. It is confirmed that this executor is safe.",
       "supports": "PC"
     },
     {
@@ -15,7 +15,7 @@
     {
       "name": "Wave / Wave Lite",
       "status": "Working, but detected",
-      "details": "Released two months ago. Wave is a Freemium executor. Premium version was very expensive, both versions have vulnerabilities and frequent crashes. Developer tried to hide these but it didn't work as planned.",
+      "details": "Wave was released two months ago. It is a Freemium executor. The premium version was very expensive. Both versions have vulnerabilities and frequent crashes. The developer tried to hide these, but it didn't work as planned.",
       "supports": "PC"
     },
     {
@@ -27,7 +27,7 @@
     {
       "name": "Prism",
       "status": "Not released",
-      "details": "Claimed to be undetected, with a 68% UNC (undetected score).",
+      "details": "Claimed undetected, with a 68% UNC (undetected score).",
       "supports": "PC"
     },
     {
@@ -63,13 +63,13 @@
     {
       "name": "Synergy",
       "status": "Not released",
-      "details": "Synergy is a very powerful freemium executor still currently under development. It has 80-100% UNCS, with internal and external versions. It has been demonstrated by developers.",
+      "details": "Synergy is a very powerful freemium executor still currently under-development. It has 80-100% UNCS, with internal and external versions. It has been demonstrated by developers.",
       "supports": "PC"
     },
     {
       "name": "Synapse Z",
       "status": "Working, undetected",
-      "details": "Synapse Z has a built-in decompiler, 100% UNCS and is level 3 but crashes frequently and has many vulnerabilities, it is confirmed that this executor is safe.",
+      "details": "Synapse Z has a built-in decompiler, 100% UNCS, and is level 3 but crashes frequently and has many vulnerabilities, it is confirmed that this executor is safe.",
       "supports": "PC"
     },
     {
@@ -87,13 +87,13 @@
     {
       "name": "Incognito",
       "status": "Patched (inactive)",
-      "details": "Incognito is patched, it was previously a known 0 UNC, level 3 executor, it is confirmed that this executor is safe, the community and reputation of this executor is really greatly built.",
+      "details": "Incognito is patched, it's previously a known 0 UNC, level 3 executor, it is confirmed that this executor is safe, and the community and reputations of this executor are greatly built.",
       "supports": "PC"
     },
     {
       "name": "Carbon",
       "status": "Not released",
-      "details": "Carbon is an unreleased AI-Based Aimbot project developed by the same team behind Incognito.",
+      "details": "Carbon is an unreleased AI-based Aimbot project developed by the same team behind Incognito.",
       "supports": "PC"
     },
     {
@@ -105,19 +105,19 @@
     {
       "name": "Domain",
       "status": "Working, detected",
-      "details": "Domain is a paid executor. Level 3 and has no UNCS, previously known for being undetected in the early Hyperion 4.0.",
+      "details": "Domain is a paid executor. Level 3 has no UNCS, previously known for being undetected in the early Hyperion 4.0.",
       "supports": "PC"
     },
     {
       "name": "Ignite",
       "status": "Working, detections unconfirmed",
-      "details": "A small, newly released paid internal executor, has high UNC and is level 3.",
+      "details": "A small, newly released paid internal executor, has high UNC, and is level 3.",
       "supports": "PC"
     },
     {
       "name": "Horizon",
-      "status": "Not released",
-      "details": "Horizon is an under-development paid external executor. Horizon is a great executor, it has over 97%+ UNCS in their Lua environment, has a well-built reputation (they often use racist slurs though).",
+      "status": "Not Released",
+      "details": "Horizon is an under-development paid external executor. Horizon is a great executor, it has over 97%+ UNCS in its Lua environment, and has a well-built reputation (they often use racism slurs though).",
       "supports": "PC"
     },
     {
@@ -129,7 +129,7 @@
     {
       "name": "DX9WARE V2",
       "status": "Working, undetected",
-      "details": "DX9WARE V2 is a paid external executor. A comeback of DX9WARE, previously detected by the earlier version Hyperion 4.0, around 1 to 2 months away from now, it has a giant script library and a custom Lua environment.",
+      "details": "DX9WARE V2 is a paid external executor. A comeback of DX9WARE, previously detected by the earlier version Hyperion 4.0, is around 1 to 2 months away from now, it has a giant script library and a custom Lua environment.",
       "supports": "PC"
     },
     {
@@ -165,7 +165,7 @@
     {
       "name": "Vega X",
       "status": "Working, possibly detected",
-      "details": "Vega X is owned by 1F0 and has partnered with Arceus X. It has a mid UNCS score.",
+      "details": "Vega X is owned by 1F0 and has partnered with Arceus X. It has a mid-UNCS score.",
       "supports": "Android"
     },
     {
@@ -177,13 +177,13 @@
     {
       "name": "Evon",
       "status": "Working, detected",
-      "details": "Evon, previously known for being a free PC executor, now an internal exec for Android Roblox.",
+      "details": "Evon, previously known for being a free PC executor, is now an internal exec for Android Roblox.",
       "supports": "Android"
     },
     {
       "name": "Nyx V2.2",
       "status": "Working, Ratted",
-      "details": "Nyx is a newly released external executor, it was recently exposed for being a rat, owner was a skid exposed by J. Burger and Quvings.",
+      "details": "Nyx is a newly released external executor, it was recently exposed for being a rat, the owner was a skid exposed by J. Burger and Quivings.",
       "supports": "PC"
     },
     {
@@ -195,7 +195,7 @@
     {
       "name": "Nezur",
       "status": "Working, possibly detected",
-      "details": "Nezur is a freemium, recently turned from an AI Aimbot into a very nice external executor. Just like Solara it is level 3 and has almost the same UNC as well.",
+      "details": "Nezur is a freemium that recently turned from an AI Aimbot into a very nice external executor. Just like Solara it is level 3 and has almost the same UNC as well.",
       "supports": "PC"
     },
     {
@@ -207,25 +207,25 @@
     {
       "name": "NEVERMISS",
       "status": "Working, detections unconfirmed",
-      "details": "NEVERMISS is a powerful external executor that offers you a lifetime package, has a Not-Bad reputation but is Santo-Ware's Rebrand. The owner has a shady background.",
+      "details": "NEVERMISS is a powerful external executor that offers you a lifetime package, and has a Not-Bad reputation but is Santo-Ware's Rebrand. The owner has a shady background.",
       "supports": "PC"
     },
     {
       "name": "Fusion Softworks",
       "status": "Not released",
-      "details": "Fusion Softworks is an AI-Based Aimbot similar to Nezur and Aimmy. It has a well-designed GUI and offers a 48-hour key. The project has not yet been released.",
+      "details": "Fusion Softworks is an AI-based Aimbot similar to Nezur and Aimmy. It has a well-designed GUI and offers a 48-hour key. The project has not yet been released.",
       "supports": "PC"
     },
     {
-      "name": "Flint / 'Incognito V2'",
+      "name": "Flint / Incognito V2",
       "status": "Working, detected",
-      "details": "Flint is a newly released executor, it's a recreation/continuation of Incognito. It has a moderate level of UNCS, Level 3. Uses a bit of other sploits' source code.",
+      "details": "Flint is a newly released executor, it's a recreation/continuation of Incognito. has a moderate level of UNCS, Level 3. Uses a bit of other sploits' source code.",
       "supports": "PC"
     },
     {
       "name": "Aimmy",
       "status": "Working",
-      "details": "Aimmy is a free, open-sourced AI-Based Aimbot, the original source to Nezur. The newest version requires a high-end PC; otherwise, it will cause significant lags and jitters.",
+      "details": "Aimmy is a free, open-sourced AI-based Aimbot, the source of Nezur. The newest version requires a high-end PC; otherwise, it will cause significant lags and jitters.",
       "supports": "PC"
     },
     {
