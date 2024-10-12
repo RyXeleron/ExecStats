@@ -4,7 +4,7 @@
 
 1. **Solara**
     - **Status**: Working, but detected.
-    - **Details**: Solara is not patched, but detected by Hyperion's. The detection is silent, but actions will be logged for future consequences, it is confirmed that this executor is safe.
+    - **Details**: Solara is not patched but detected by Hyperion. The detection is silent, but actions will be logged for future consequences. It is confirmed that this executor is safe.
     - **Supports**: PC
 
 2. **Ro-Astral**
@@ -14,7 +14,7 @@
 
 3. **Wave / Wave Lite**
     - **Status**: Working, but detected.
-    - **Details**: Released two months ago. Wave is a Freemium executor. Premium version was very expensive, both versions has vulnerablities and frequent crashes. Developer tried to hide these but it didn't work as planned.
+    - **Details**: Wave was released two months ago. It is a Freemium executor. The premium version was very expensive. Both versions have vulnerabilities and frequent crashes. The developer tried to hide these, but it didn't work as planned.
     - **Supports**: PC
 
 4. **Krampus**
@@ -24,7 +24,7 @@
 
 5. **Prism**
     - **Status**: Not released.
-    - **Details**: Claimed to be undetected, with a 68% UNC (undetected score).
+    - **Details**: Claimed undetected, with a 68% UNC (undetected score).
     - **Supports**: PC
 
 6. **Feather**
@@ -59,7 +59,7 @@
 
 12. **Synapse Z**
     - **Status**: Working, undetected.
-    - **Details**: Synapse Z has a built-in decompiler, 100% UNCS and is level 3 but crashes frequently and has many vulnerabilities, it is confirmed that this executor is safe.
+    - **Details**: Synapse Z has a built-in decompiler, 100% UNCS, and is level 3 but crashes frequently and has many vulnerabilities, it is confirmed that this executor is safe.
     - **Supports**: PC
 
 13. **Scriptify**
@@ -74,12 +74,12 @@
 
 15. **Incognito**
     - **Status**: Patched (inactive).
-    - **Details**: Incognito is patched, it's previously a known 0 UNC, level 3 executor, it is confirmed that this executor is safe, the community and reputation of this executor is really greatly built.
+    - **Details**: Incognito is patched, it's previously a known 0 UNC, level 3 executor, it is confirmed that this executor is safe, and the community and reputations of this executor are greatly built.
     - **Supports**: PC
 
 16. **Carbon**
     - **Status**: Not released.
-    - **Details**: Carbon is an unreleased AI-Based Aimbot project developed by the same team behind Incognito.
+    - **Details**: Carbon is an unreleased AI-based Aimbot project developed by the same team behind Incognito.
     - **Supports**: PC
 
 17. **Delta**
@@ -89,17 +89,17 @@
 
 18. **Domain**
     - **Status**: Working, detected.
-    - **Details**: Domain is a paid executor. Level 3 and has no UNCS, previously known for being undetected in the early Hyperion 4.0.
+    - **Details**: Domain is a paid executor. Level 3 has no UNCS, previously known for being undetected in the early Hyperion 4.0.
     - **Supports**: PC
 
 19. **Ignite**
     - **Status**: Working, detections unconfirmed.
-    - **Details**: A small, newly released paid internal executor, has high UNC and is level 3.
+    - **Details**: A small, newly released paid internal executor, has high UNC, and is level 3.
     - **Supports**: PC
 
 20. **Horizon**
     - **Status**: Not Released.
-    - **Details**: Horizon is an under-development paid external executor. Horizon is a great executor, it has over 97%+ UNCS in their Lua environment, has a well-built reputation (they often use racism slurs though).
+    - **Details**: Horizon is an under-development paid external executor. Horizon is a great executor, it has over 97%+ UNCS in its Lua environment, and has a well-built reputation (they often use racism slurs though).
     - **Supports**: PC
 
 21. **Hydrogen**
@@ -109,7 +109,7 @@
 
 22. **DX9WARE V2**
     - **Status**: Working, undetected.
-    - **Details**: DX9WARE V2 is a paid external executor. A comeback of DX9WARE, previously detected by the earlier version Hyperion 4.0, around 1 to 2 months away from now, it has a giant script library and a custom Lua environment.
+    - **Details**: DX9WARE V2 is a paid external executor. A comeback of DX9WARE, previously detected by the earlier version Hyperion 4.0, is around 1 to 2 months away from now, it has a giant script library and a custom Lua environment.
     - **Supports**: PC
 
 23. **Script-Ware**
@@ -139,7 +139,7 @@
 
 28. **Vega X**
     - **Status**: Working, possibly detected.
-    - **Details**: Vega X is owned by 1F0 and has partnered with Arceus X. It has a mid UNCS score.
+    - **Details**: Vega X is owned by 1F0 and has partnered with Arceus X. It has a mid-UNCS score.
     - **Supports**: Android
 
 29. **Cryptic**
@@ -149,12 +149,12 @@
 
 30. **Evon**
     - **Status**: Working, detected.
-    - **Details**: Evon, previously known for being a free PC executor, now an internal exec for Android Roblox.
+    - **Details**: Evon, previously known for being a free PC executor, is now an internal exec for Android Roblox.
     - **Supports**: Android
 
 31. **Nyx V2.2**
     - **Status**: Working, Ratted.
-    - **Details**: Nyx is a newly released external executor, it was recently exposed for being a rat, owner was a skid exposed by J. Burger and Quivings.
+    - **Details**: Nyx is a newly released external executor, it was recently exposed for being a rat, the owner was a skid exposed by J. Burger and Quivings.
     - **Supports**: PC
 
 32. **Nexar X**
@@ -164,7 +164,7 @@
 
 33. **Nezur**
     - **Status**: Working, possibly detected.
-    - **Details**: Nezur is a freemium, recently turned from an AI Aimbot into a very nice external executor. Just like Solara it is level 3 and has almost the same UNC as well.
+    - **Details**: Nezur is a freemium that recently turned from an AI Aimbot into a very nice external executor. Just like Solara it is level 3 and has almost the same UNC as well.
     - **Supports**: PC
 
 34. **Nexus Admin**
@@ -174,12 +174,12 @@
 
 35. **NEVERMISS**
     - **Status**: Working, detections unconfirmed.
-    - **Details**: NEVERMISS is a powerful external executor that offers you a lifetime package, has a Not-Bad reputation but is Santo-Ware's Rebrand. The owner has a shady background.
+    - **Details**: NEVERMISS is a powerful external executor that offers you a lifetime package, and has a Not-Bad reputation but is Santo-Ware's Rebrand. The owner has a shady background.
     - **Supports**: PC
 
 36. **Fusion Softworks**
     - **Status**: Not released.
-    - **Details**: Fusion Softworks is an AI-Based Aimbot similar to Nezur and Aimmy. It has a well-designed GUI and offers a 48-hour key. The project has not yet been released.
+    - **Details**: Fusion Softworks is an AI-based Aimbot similar to Nezur and Aimmy. It has a well-designed GUI and offers a 48-hour key. The project has not yet been released.
     - **Supports**: PC
 
 37. **Flint / "Incognito V2"**
@@ -189,7 +189,7 @@
 
 38. **Aimmy**
     - **Status**: Working.
-    - **Details**: Aimmy is a free, open-sourced AI-Based Aimbot, the original source to Nezur. The newest version requires a high-end PC; otherwise, it will cause significant lags and jitters.
+    - **Details**: Aimmy is a free, open-sourced AI-based Aimbot, the source of Nezur. The newest version requires a high-end PC; otherwise, it will cause significant lags and jitters.
     - **Supports**: PC
 
 39. **MacSploit**
@@ -220,7 +220,7 @@ Freemium: has both paid (pros/premium) and free (cons) versions
 
 **Status**: *Patched*
 
-Wave has been a topic of controversy, especially the paid version, which claims to be a Level 8 executor but is actually only Level 3. If you're skeptical, try using the PrintIdentity Validator on ScriptBlox. Despite some users boasting that "Wave has more UNC than Solara," the reality is that Wave's UNC is only 84%. The first release couldn't even execute LUAU scripts properly.
+Wave has been a topic of controversy, especially the paid version, which claims to be a Level 8 executor but is only Level 3. If you're skeptical, try using the PrintIdentity Validator on ScriptBlox. Despite some users boasting that "Wave has more UNC than Solara," the reality is that Wave's UNC is only 84%. The first release couldn't even execute LUAU scripts properly.
 
 **Key Issues with Wave's early version:**
 
@@ -251,7 +251,7 @@ There's speculation that Wave might have skidded some environments from Fluxus, 
 - **Notes:** Since it’s detected, using it could lead to getting flagged and facing bans or restrictions.
 
 ### **Incognito / Carbon**
-- **Overview:** Incognito (and its AI-Based Aimbot variant, Carbon) are pretty average execs. Incognito Beta, in particular, sometimes fails to work as expected.
+- **Overview:** Incognito (and its AI-based Aimbot variant, Carbon) are pretty average execs. Incognito Beta, in particular, sometimes fails to work as expected.
 - **Source:** [Incognito Source](https://cdn.discordapp.com/attachments/1234086733247807498/1259752504699256832/incognitosource.zip?ex=668cd372&is=668b81f2&hm=b9ed1f6ed126c6311d43a6c2d3dfffdff0263455c47a8aa26f0ea2d7b636ba78&)
 
 ### **Krampus**
@@ -274,7 +274,7 @@ There's speculation that Wave might have skidded some environments from Fluxus, 
 - **Overview:** These wannabe Solara's are known for being rats.
 
 ### **Nyx**
--- **Overview:** The owner is a skid and begged qui to fix his exec multiple times, you can check the screenshot below
+-- **Overview:** The owner is a skid and begged Qui to fix his exec multiple times, you can check the screenshot below
 
 ![From Quivings](https://github.com/user-attachments/assets/8b561d25-467c-4d78-ae60-9b8d485a3983)
 ![From J. Burger](https://github.com/user-attachments/assets/a75300ba-b38a-4ec5-88e6-1df24cbeacde)
