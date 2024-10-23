@@ -290,6 +290,7 @@ up. 4 (somewhat, at least) popular executors
 All of those are localscripts. Preferably put in ReplicatedFirst.
 
 :green_square: - Detects on injection (before autoexec executes itself)
+
 :yellow_square: - Detects after injection (after autoexec executes itself, thus bypassable)
 
 :green_square: Trigon Evo:
