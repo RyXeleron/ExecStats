@@ -326,7 +326,7 @@ game:GetService('LogService').MessageOut:Connect(function(msg,msgtype)
 end)
 ```
 
-[Source](https://devforum.roblox.com/t/3-4-mobile-executor-detections/3224042)
+[Source: Roblox DevForum](https://devforum.roblox.com/t/3-4-mobile-executor-detections/3224042)
 
 ### **More ratted execs and scripts**
 
