@@ -282,18 +282,15 @@ There's speculation that Wave might have skidded some environments from Fluxus, 
 
 [From J. Burger's Reddit](https://www.reddit.com/r/robloxhackers/comments/1fcafoj/nyx_executor_rat_proof/?share_id=ZEKoG_aapnkNtygTBHt54)
 
-### MObile Executors can be detected using these scripts below
+### Mobile Executors can be detected using the scripts below
 
-up. 4 (somewhat, at least) popular executors
-:warning: Remember that most of them will be patched in a short time probably, also remember to check your prints and other stuff, so you wasn’t listening to what players say.
+:warning: Remember that most of them will be patched in a short time probably, also remember to check your prints and other stuff, so you aren’t gonna listen to what players say.
 
 All of those are localscripts. Preferably put in ReplicatedFirst.
 
-:green_square: - Detects on injection (before autoexec executes itself)
+Detects on injection (before autoexec executes itself)
 
-:yellow_square: - Detects after injection (after autoexec executes itself, thus bypassable)
-
-:green_square: Trigon Evo:
+- Trigon Evo:
 
 ```lua
 game:GetService('ReplicatedStorage').ChildAdded:Connect(function(v)
@@ -303,22 +300,23 @@ game:GetService('ReplicatedStorage').ChildAdded:Connect(function(v)
 end)
 ```
 
-:green_square: Delta - NOT A DETECTION, but breaks the UI, can’t close it, execute anything or other stuff:
+- Delta - NOT A DETECTION, but breaks the UI, can’t close it, execute anything or other stuff:
 
 ```lua
 game:GetService('TweenService').Name = math.random()
 ```
 
-:green_square: Vega X - WILL BE PATCHED SHORTLY:
+- Vega X - Maybe Patched:
 
-```luagame:GetService('LogService').MessageOut:Connect(function(msg,msgtype)
+```lua
+game:GetService('LogService').MessageOut:Connect(function(msg,msgtype)
 	if msg:find('Depricated & Drop Support on') and msgtype == Enum.MessageType.MessageWarning then -- yes, it even has grammar issues
 		--detected lol
 	end
 end)
 ```
 
-:green_square: Evon - couldn’t expect more this youtuber:
+- Evon - couldn’t expect more from this YouTuber:
 
 ```lua
 game:GetService('LogService').MessageOut:Connect(function(msg,msgtype)
@@ -327,6 +325,8 @@ game:GetService('LogService').MessageOut:Connect(function(msg,msgtype)
 	end
 end)
 ```
+
+[Source](https://devforum.roblox.com/t/3-4-mobile-executor-detections/3224042)
 
 ### **More ratted execs and scripts**
 
