@@ -1,4 +1,5 @@
-[
+{
+  "ExecStats": [
     {
         "name": "Solara",
         "status": "Working, but detected",
@@ -232,5 +233,5 @@
         "status": "Working, but detected",
         "details": "Macsploit is a decently rated exploit for MacOS users. It is reported to be functional and has a moderate level of UNCS, it is confirmed that this executor is safe.",
         "supports": "MacOS"
-    }
-]
+  ]
+}
