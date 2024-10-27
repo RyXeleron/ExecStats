@@ -14,7 +14,7 @@
 
 3. **Wave / Wave Lite**
     - **Status**: Working, but detected.
-    - **Details**: Wave was released two months ago. It is a Freemium executor. The premium version was very expensive. Both versions have vulnerabilities and frequent crashes. The developer tried to hide these, but it didn't work as planned.
+    - **Details**: Wave was released two months ago. It is a Freemium executor, and the premium version is very expensive. Both versions have vulnerabilities and frequent crashes, which the developer tried to hide.
     - **Supports**: PC
 
 4. **Krampus**
@@ -29,7 +29,7 @@
 
 6. **Feather**
     - **Status**: Patched (Exposed).
-    - **Details**: A copy-paste of Incognito and Krampus, reported to be a Rat.
+    - **Details**: A copy-paste of Incognito and Krampus, reported as a Rat.
     - **Supports**: PC
 
 7. **Celery**
@@ -44,7 +44,7 @@
 
 9. **Solaris**
     - **Status**: Patched (inactive).
-    - **Details**: Solaris is not a copy of Solara. It is currently patched, and the project may be inactive, reported to be a Rat in the late year.
+    - **Details**: Solaris is not a copy of Solara. It is currently patched, and the project may be inactive, but it was reported to be a Rat in the late year.
     - **Supports**: PC
 
 10. **Nihon**
