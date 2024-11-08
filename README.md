@@ -2,199 +2,219 @@
 
 # **ExecStats:** (Information taken on [R/RobloxHackers](https://www.reddit.com/r/robloxhackers/), [Roblox Developer Forum](https://devforum.roblox.com/), [R/RobloxExploiting](https://www.reddit.com/r/robloxexploiting/) and [WhatExpsAreOnline](https://whatexpsare.online))
 
-1. **Solara**
-    - **Status**: Working, but detected.
-    - **Details**: Solara is not patched but detected by Hyperion. The detection is silent, but actions will be logged for future consequences. It is confirmed that this executor is safe.
-    - **Supports**: PC
+1. **Solara**  
+   - **Status**: Working, but detected.
+   - **Details**: Solara is not patched but detected by Hyperion. The detection is silent, but actions will be logged for future consequences. It is confirmed that this executor is safe.
+   - **Supports**: PC
 
-2. **Ro-Astral**
-    - **Status**: Working, but detected.
-    - **Details**: Ro-Astral is detected, likely due to the monitoring of ModuleScripts.
-    - **Supports**: PC
+2. **Ro-Astral**  
+   - **Status**: Working, but detected.
+   - **Details**: Ro-Astral is detected, likely due to the monitoring of ModuleScripts.
+   - **Supports**: PC
 
-3. **Wave / Wave Lite**
-    - **Status**: Working, but detected.
-    - **Details**: Wave was released two months ago. It is a Freemium executor, and the premium version is very expensive. Both versions have vulnerabilities and frequent crashes, which the developer tried to hide.
-    - **Supports**: PC
+3. **Wave / Wave Lite**  
+   - **Status**: Working, but detected.
+   - **Details**: Wave was released two months ago. It is a Freemium executor, and the premium version is very expensive. Both versions have vulnerabilities and frequent crashes, which the developer tried to hide.
+   - **Supports**: PC
 
-4. **Krampus**
-    - **Status**: Shutdown.
-    - **Details**: Krampus is no longer operational.
-    - **Supports**: PC
+4. **Krampus**  
+   - **Status**: Shutdown.
+   - **Details**: Krampus is no longer operational.
+   - **Supports**: PC
 
-5. **Prism**
-    - **Status**: Not released.
-    - **Details**: Claimed undetected, with a 68% UNC (undetected score).
-    - **Supports**: PC
+5. **Prism**  
+   - **Status**: Not released.
+   - **Details**: Claimed undetected, with a 68% UNC (undetected score).
+   - **Supports**: PC
 
-6. **Feather**
-    - **Status**: Patched (Exposed).
-    - **Details**: A copy-paste of Incognito and Krampus, reported as a Rat.
-    - **Supports**: PC
+6. **Feather**  
+   - **Status**: Patched (Exposed).
+   - **Details**: A copy-paste of Incognito and Krampus, reported as a Rat.
+   - **Supports**: PC
 
-7. **Celery**
-    - **Status**: Patched (inactive).
-    - **Details**: Demo has ended, and the executor is currently patched. The project appears to be inactive.
-    - **Supports**: PC
+7. **Celery**  
+   - **Status**: Patched (inactive).
+   - **Details**: Demo has ended, and the executor is currently patched. The project appears to be inactive.
+   - **Supports**: PC
 
-8. **CodeX**
-    - **Status**: Working, possibly detected.
-    - **Details**: Very long key system, uses core technology from Arceus X.
-    - **Supports**: iOS, Android
+8. **Cloudy**  
+   - **Status**: Working, detected.
+   - **Details**: Cloudy is a freemium, clean GUI external executor that has monthly subscriptions, easy and fast key system, and uses cxapi.
+   - **Supports**: PC
 
-9. **Solaris**
+9. **CodeX**  
+   - **Status**: Working, possibly detected.
+   - **Details**: Very long key system, uses core technology from Arceus X.
+   - **Supports**: iOS, Android
+
+10. **Solaris**  
     - **Status**: Patched (inactive).
     - **Details**: Solaris is not a copy of Solara. It is currently patched, and the project may be inactive, but it was reported to be a Rat in the late year.
     - **Supports**: PC
 
-10. **Nihon**
+11. **Nihon**  
     - **Status**: Not released.
     - **Details**: Nihon is making a comeback, with development in progress. Limited functionality (e.g., print statements) has been demonstrated by developers.
     - **Supports**: PC
 
-11. **Synergy**
+12. **Synergy**  
     - **Status**: Not released.
-    - **Details**: Synergy is a very powerful freemium executor still currently under-development. It has 80-100% UNCS, with internal and external versions. It has been demonstrated by developers.
+    - **Details**: Synergy is a very powerful freemium executor still under development. It has 80-100% UNCS, with internal and external versions. It has been demonstrated by developers.
     - **Supports**: PC
 
-12. **Synapse Z**
+13. **Synapse Z**  
     - **Status**: Working, undetected.
-    - **Details**: Synapse Z has a built-in decompiler, 100% UNCS, and is level 3 but crashes frequently and has many vulnerabilities, it is confirmed that this executor is safe.
+    - **Details**: Synapse Z has a built-in decompiler, 100% UNCS, and is level 3, but crashes frequently and has many vulnerabilities. This executor is confirmed safe.
     - **Supports**: PC
 
-13. **Scriptify**
+14. **Scriptify**  
     - **Status**: Not released.
-    - **Details**: Scriptify is an under-development paid executor. It has high UNC support which allows users to execute any script and still support high-performance gameplay and a huge script hub with over 30k scripts. Their UI is very user-friendly and customizable.
+    - **Details**: Scriptify is an under-development paid executor with high UNC support, allowing users to execute any script and support high-performance gameplay. It has a large script hub with over 30k scripts, and the UI is very user-friendly and customizable.
     - **Supports**: PC
 
-14. **Lunar**
+15. **Lunar**  
     - **Status**: Discontinued.
     - **Details**: Lunar is no longer operational and has been discontinued.
     - **Supports**: PC
 
-15. **Incognito**
+16. **Incognito**  
     - **Status**: Patched (inactive).
-    - **Details**: Incognito is patched, it's previously a known 0 UNC, level 3 executor, it is confirmed that this executor is safe, and the community and reputations of this executor are greatly built.
+    - **Details**: Incognito is patched. It was previously a known 0 UNC, level 3 executor, confirmed as safe, and has built a strong community reputation.
     - **Supports**: PC
 
-16. **Carbon**
+17. **Carbon**  
     - **Status**: Not released.
     - **Details**: Carbon is an unreleased AI-based Aimbot project developed by the same team behind Incognito.
     - **Supports**: PC
 
-17. **Delta**
+18. **Delta**  
     - **Status**: Working, possibly detected.
-    - **Details**: Delta has very good performance and a well-built reputation, but some users have reported losing Robux. If you want to use it safely, try it on an alt account with an emulator inside a VM.
+    - **Details**: Delta has very good performance and a strong reputation, but some users have reported losing Robux. It’s advised to use it safely, trying it on an alt account with an emulator inside a VM.
     - **Supports**: iOS, Android
 
-18. **Domain**
+19. **Domain**  
     - **Status**: Working, detected.
-    - **Details**: Domain is a paid executor. Level 3 has no UNCS, previously known for being undetected in the early Hyperion 4.0.
+    - **Details**: Domain is a paid executor. Level 3, has no UNCS, previously known for being undetected during the early Hyperion 4.0 era.
     - **Supports**: PC
 
-19. **Ignite**
+20. **Ignite**  
     - **Status**: Working, detections unconfirmed.
-    - **Details**: A small, newly released paid internal executor, has high UNC, and is level 3.
+    - **Details**: A small, newly released paid internal executor with high UNC and is level 3.
     - **Supports**: PC
 
-20. **Horizon**
-    - **Status**: Not Released.
-    - **Details**: Horizon is an under-development paid external executor. Horizon is a great executor, it has over 97%+ UNCS in its Lua environment, and has a well-built reputation (they often use racism slurs though).
+21. **Horizon**  
+    - **Status**: Not released.
+    - **Details**: Horizon is an under-development paid external executor with over 97% UNCS in its Lua environment and a well-built reputation. However, they often use racial slurs.
     - **Supports**: PC
 
-21. **Hydrogen**
+22. **Hydrogen**  
     - **Status**: Patched (inactive).
-    - **Details**: Hydrogen is a well-known exploit for Android Roblox from 2020 to 2022. It is now patched and seems to not be updated anytime soon.
+    - **Details**: Hydrogen was a well-known exploit for Android Roblox from 2020 to 2022. It is now patched with no updates in sight.
     - **Supports**: MacOS, Android
 
-22. **DX9WARE V2**
+23. **DX9WARE V2**  
     - **Status**: Working, undetected.
-    - **Details**: DX9WARE V2 is a paid external executor. A comeback of DX9WARE, previously detected by the earlier version Hyperion 4.0, is around 1 to 2 months away from now, it has a giant script library and a custom Lua environment.
+    - **Details**: DX9WARE V2 is a paid external executor. A comeback of DX9WARE, previously detected by an earlier version of Hyperion 4.0, is around 1 to 2 months away. It has a large script library and a custom Lua environment.
     - **Supports**: PC
 
-23. **Script-Ware**
+24. **Script-Ware**  
     - **Status**: Shutdown.
     - **Details**: Script-Ware was a popular executor before the Byfron era but has since been shut down.
     - **Supports**: PC
 
-24. **Electron**
+25. **Electron**  
     - **Status**: Patched (inactive).
-    - **Details**: Electron is a paid executor. It tends to get patched shortly after each release, and updates take several weeks. The project may be inactive.
+    - **Details**: Electron is a paid executor that tends to get patched shortly after each release, with updates taking several weeks. The project may be inactive.
     - **Supports**: PC
 
-25. **AeroExec**
+26. **AeroExec**  
     - **Status**: Not released (detected API).
     - **Details**: AeroExec is a free executor with a 58% UNC score. It has not been released yet, and its API is detected.
     - **Supports**: PC
 
-26. **Moon Executor**
+27. **Moon Executor**  
     - **Status**: Unverified.
     - **Details**: There is no concrete proof that Moon Executor is working, but it is mentioned here for reference.
     - **Supports**: PC
 
-27. **Arceus X / Arceus Neo**
+28. **Arceus X / Arceus Neo**  
     - **Status**: Working.
-    - **Details**: Like Vega X and Code X, it has an unnecessarily long key system, but it has been reported to steal users' data since 2021. Be cautious when using it!
+    - **Details**: Like Vega X and Code X, it has an unnecessarily long key system but has been reported to steal users' data since 2021. Use with caution.
     - **Supports**: Android
 
-28. **Vega X**
+29. **Vega X**  
     - **Status**: Working, possibly detected.
-    - **Details**: Vega X is owned by 1F0 and has partnered with Arceus X. It has a mid-UNCS score.
+    - **Details**: Vega X is owned by 1F0 and has partnered with Arceus X, with a mid-UNCS score.
     - **Supports**: Android
 
-29. **Cryptic**
+30. **Cryptic**  
     - **Status**: Working, detections unconfirmed.
     - **Details**: Cryptic is a free, newly released exploit with a very high identity level and UNCS. Safety is uncertain.
     - **Supports**: Android
 
-30. **Evon**
+31. **Evon**  
     - **Status**: Working, detected.
-    - **Details**: Evon, previously known for being a free PC executor, is now an internal exec for Android Roblox.
+    - **Details**: Previously known for being a free PC executor, Evon is now an internal executor for Android Roblox.
     - **Supports**: Android
 
-31. **Nyx V2.2**
+32. **Nyx V2.2**  
     - **Status**: Working, Ratted.
-    - **Details**: Nyx is a newly released external executor, it was recently exposed for being a rat, the owner was a skid exposed by J. Burger and Quivings.
+    - **Details**: Nyx is a newly released external executor that was recently exposed for being a rat. The owner was a skid exposed by J. Burger and Quivings.
     - **Supports**: PC
 
-32. **Nexar X**
+33. **Nexar X**  
     - **Status**: Working, undetected.
     - **Details**: Nexar X is reportedly a level 7 executor with a 75% UNC score and is currently undetected.
     - **Supports**: PC
 
-33. **Nezur**
+34. **Nezur**  
     - **Status**: Working, possibly detected.
-    - **Details**: Nezur is a freemium that recently turned from an AI Aimbot into a very nice external executor. Just like Solara it is level 3 and has almost the same UNC as well.
+    - **Details**: Nezur is a freemium that recently turned from an AI Aimbot into a nice external executor. Similar to Solara, it is level 3 with a comparable UNC score.
     - **Supports**: PC
 
-34. **Nexus Admin**
+35. **Nexus Admin**  
     - **Status**: Working.
-    - **Details**: Nexus Admin is an executor that offers you free and lifetime packages. It has a high UNCS, and every LuaU script is executable, but it has very strict TOS.
+    - **Details**: Nexus Admin, a level 4 executor, now includes a Lua custom environment with good performance. However, it has detection issues.
     - **Supports**: PC
 
-35. **NEVERMISS**
-    - **Status**: Working, detections unconfirmed.
-    - **Details**: NEVERMISS is a powerful external executor that offers you a lifetime package, and has a Not-Bad reputation but is Santo-Ware's Rebrand. The owner has a shady background.
+36. **NEVERMISS**  
+    - **Status**: Working, detected.
+    - **Details**: NEVERMISS was exposed for having 13 backdoors, and its popularity faded in 2021.
     - **Supports**: PC
 
-36. **Fusion Softworks**
+37. **Fusion Softworks**  
     - **Status**: Not released.
     - **Details**: Fusion Softworks is an AI-based Aimbot similar to Nezur and Aimmy. It has a well-designed GUI and offers a 48-hour key. The project has not yet been released.
     - **Supports**: PC
 
-37. **Flint / "Incognito V2"**
+38. **Nezur**  
     - **Status**: Working, detected.
-    - **Details**: Flint is a newly released executor, it's a recreation/continuation of Incognito. has a moderate level of UNCS, Level 3. Uses a bit of other sploits' source code.
+    - **Details**: Originally known for being an AI-based Aimbot that uses core technology from Aimmy. Now an external executor with around 60% UNCs.
     - **Supports**: PC
 
-38. **Aimmy**
+39. **Custom Name (CN)**  
+    - **Status**: Patched (inactive).
+    - **Details**: CN, a powerful level 5 executor, is currently inactive and no longer supported.
+    - **Supports**: PC
+
+40. **Flint / "Incognito V2"**  
+    - **Status**: Working, detected.
+    - **Details**: Flint, also known as Incognito V2, is reportedly still a strong executor but has detection issues.
+    - **Supports**: PC
+
+41. **Fluxus**  
+    - **Status**: Working, undetected.
+    - **Details**: Fluxus, a level 6 executor, is renowned for its frequent updates and good user feedback.
+    - **Supports**: PC
+
+42. **Aimmy**  
+    - **Status**: Working, undetected.
+    - **Details**: Aimmy is a free, open-sourced AI-based Aimbot, which is the source of Nezur. The newest version requires a high-end PC; otherwise, it will cause significant lags and jitters.
+    - **Supports**: PC
+
+43. **MacSploit**  
     - **Status**: Working.
-    - **Details**: Aimmy is a free, open-sourced AI-based Aimbot, the source of Nezur. The newest version requires a high-end PC; otherwise, it will cause significant lags and jitters.
-    - **Supports**: PC
-
-39. **MacSploit**
-    - **Status**: Working, but detected.
-    - **Details**: Macsploit is a decently rated exploit for MacOS users. It is reported to be functional and has a moderate level of UNCS, it is confirmed that this executor is safe.
+    - **Details**: This is a Mac-exclusive executor with a niche following due to limited support for Mac-based executors.
     - **Supports**: MacOS
 
 --------------------------
