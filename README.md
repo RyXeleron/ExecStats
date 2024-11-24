@@ -346,7 +346,7 @@ game:GetService('LogService').MessageOut:Connect(function(msg,msgtype)
 end)
 ```
 
-- Solara - no this isn't a detection its just a funny random vulnerability.
+- Solara - no this isn't a detection its just a funny random vulnerability patch for it.
 
 ```lua
 local old = writefile
