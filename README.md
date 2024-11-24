@@ -346,6 +346,16 @@ game:GetService('LogService').MessageOut:Connect(function(msg,msgtype)
 end)
 ```
 
+- Solara - no this isn't a detection its just a funny random vulnerability.
+
+```lua
+local old = writefile
+getgenv().writefile = function(a, b)
+    a = a:gsub(":(/+)", "_")
+    old(a, b)
+end
+```
+
 [Source: Roblox DevForum](https://devforum.roblox.com/t/3-4-mobile-executor-detections/3224042)
 
 ### **More ratted execs and scripts**
