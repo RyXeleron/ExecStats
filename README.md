@@ -57,7 +57,7 @@
     - **Details**: Nihon is making a comeback, with development in progress. Limited functionality (e.g., print statements) has been demonstrated by developers.
     - **Supports**: PC
 
-12. **Synergy**  
+12. **Dynamic**  
     - **Status**: Not released.
     - **Details**: Synergy is a very powerful freemium executor still under development. It has 80-100% UNCS, with internal and external versions. It has been demonstrated by developers.
     - **Supports**: PC
