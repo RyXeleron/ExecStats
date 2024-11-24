@@ -59,7 +59,7 @@
 
 12. **Dynamic**  
     - **Status**: Not released.
-    - **Details**: Synergy is a very powerful freemium executor still under development. It has 80-100% UNCS, with internal and external versions. It has been demonstrated by developers.
+    - **Details**: Synergy is a very powerful freemium executor still under development. It has 80-100% UNCS, with internal and external versions. It has been demonstrated by developers (one of them are from Cloudy's).
     - **Supports**: PC
 
 13. **Synapse Z**  
