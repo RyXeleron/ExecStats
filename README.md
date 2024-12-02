@@ -189,12 +189,12 @@
 
 38. **Nezur**  
     - **Status**: Working, detected.
-    - **Details**: Originally known for being an AI-based Aimbot that uses core technology from Aimmy. Now an external executor with around 60% UNCs.
+    - **Details**: Originally known as an AI-based Aimbot that uses core technology from Aimmy, it now has an external executor with around 60% UNCs.
     - **Supports**: PC
 
 39. **Custom Name (CN)**  
     - **Status**: Patched (inactive).
-    - **Details**: CN, a powerful level 5 executor, is currently inactive and no longer supported.
+    - **Details**: CN, a powerful level 5 executor, is inactive and no longer supported.
     - **Supports**: PC
 
 40. **Flint / "Incognito V2"**  
