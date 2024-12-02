@@ -168,8 +168,8 @@
     - **Supports**: PC
 
 34. **Nezur**  
-    - **Status**: Working, possibly detected.
-    - **Details**: Nezur is a freemium that recently turned from an AI Aimbot into a nice external executor. Similar to Solara, it is level 3 with a comparable UNC score.
+    - **Status**: Working, detected.
+    - **Details**: Originally known as an AI-based Aimbot that uses core technology from Aimmy, it now has an external executor with around 60% UNCs.
     - **Supports**: PC
 
 35. **Nexus Admin**  
@@ -187,32 +187,22 @@
     - **Details**: Fusion Softworks is an AI-based Aimbot similar to Nezur and Aimmy. It has a well-designed GUI and offers a 48-hour key. The project has not yet been released.
     - **Supports**: PC
 
-38. **Nezur**  
-    - **Status**: Working, detected.
-    - **Details**: Originally known as an AI-based Aimbot that uses core technology from Aimmy, it now has an external executor with around 60% UNCs.
-    - **Supports**: PC
-
-39. **Custom Name (CN)**  
-    - **Status**: Patched (inactive).
-    - **Details**: CN, a powerful level 5 executor, is inactive and no longer supported.
-    - **Supports**: PC
-
-40. **Flint / "Incognito V2"**  
+38. **Flint / "Incognito V2"**  
     - **Status**: Working, detected.
     - **Details**: Flint, also known as Incognito V2, is reportedly still a strong executor but has detection issues.
     - **Supports**: PC
 
-41. **Fluxus**  
+39. **Fluxus**  
     - **Status**: Working, undetected.
     - **Details**: Fluxus, a level 6 executor, is renowned for its frequent updates and good user feedback.
     - **Supports**: PC
 
-42. **Aimmy**  
+40. **Aimmy**  
     - **Status**: Working, undetected.
     - **Details**: Aimmy is a free, open-sourced AI-based Aimbot, which is the source of Nezur. The newest version requires a high-end PC; otherwise, it will cause significant lags and jitters.
     - **Supports**: PC
 
-43. **MacSploit**  
+41. **MacSploit**  
     - **Status**: Working.
     - **Details**: This is a Mac-exclusive executor with a niche following due to limited support for Mac-based executors.
     - **Supports**: MacOS
